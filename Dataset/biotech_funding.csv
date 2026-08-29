@@ -1,0 +1,1209 @@
+deal_id,date,year,deal_type,acquirer_or_investors,target_or_company,value_usd_bn,description,is_megadeal,is_real_headline
+D0001,09-03-2009,2009,M&A,Pfizer,Wyeth,68,Pfizer-Wyeth megamerger,1,1
+D0041,08-01-2010,2010,Series_B,F-Prime Capital,Oncgen OS,0.403,Series_B 2010,0,0
+D0036,12-01-2010,2010,IPO,Public markets,Yothap IO,0.456,IPO 2010,0,0
+D0045,16-01-2010,2010,M&A,Roche,Aermod AB,1.158,M&A 2010,0,0
+D0053,17-01-2010,2010,Series_B,Polaris Partners,Tavyot OS,0.643,Series_B 2010,0,0
+D0046,17-01-2010,2010,Crossover,GV (Google Ventures),Repyot RX,0.348,Crossover 2010,0,0
+D0032,18-01-2010,2010,M&A,Sanofi,Quoxen BIO,0.247,M&A 2010,0,0
+D0049,23-01-2010,2010,VC,ARCH Venture Partners,Jasquo RX,0.096,VC 2010,0,0
+D0028,03-02-2010,2010,M&A,Roche,Repquo BIO,0.046,M&A 2010,0,0
+D0042,09-02-2010,2010,IPO,Public markets,Quorep OS,0.232,IPO 2010,0,0
+D0040,09-02-2010,2010,VC,Versant Ventures,Neusyn GX,0.078,VC 2010,0,0
+D0052,14-02-2010,2010,M&A,Amgen,Probio BIO,0.174,M&A 2010,0,0
+D0062,16-02-2010,2010,Series_C,Sofinnova Investments,Quomod OS,0.12,Series_C 2010,0,0
+D0029,23-02-2010,2010,Crossover,F-Prime Capital,Reptav X,0.026,Crossover 2010,0,0
+D0030,25-02-2010,2010,M&A,GSK,Lumquo BIO,0.506,M&A 2010,0,0
+D0058,10-03-2010,2010,IPO,Public markets,Quoxen AB,0.463,IPO 2010,0,0
+D0060,06-04-2010,2010,VC,GV (Google Ventures),Repjas GX,1.037,VC 2010,0,0
+D0037,08-04-2010,2010,M&A,BMS,Celkym Tx,3.473,M&A 2010,0,0
+D0056,14-04-2010,2010,Series_C,Flagship Pioneering,Uniden IO,0.081,Series_C 2010,0,0
+D0043,18-04-2010,2010,VC,Atlas Venture,Biotav AB,0.154,VC 2010,0,0
+D0050,12-05-2010,2010,VC,Bain Capital Life Sciences,Biozeo IO,0.729,VC 2010,0,0
+D0038,19-05-2010,2010,Crossover,OrbiMed,Immpro Tx,0.166,Crossover 2010,0,0
+D0047,19-05-2010,2010,M&A,J&J,Neumod Tx,3.141,M&A 2010,0,0
+D0031,23-05-2010,2010,Series_B,OrbiMed,Jasjas Therapeutics,0.105,Series_B 2010,0,0
+D0054,24-05-2010,2010,VC,Versant Ventures,Modpro OS,0.086,VC 2010,0,0
+D0061,01-07-2010,2010,Crossover,Versant Ventures,Jasrep Therapeutics,0.107,Crossover 2010,0,0
+D0059,03-07-2010,2010,VC,Atlas Venture,Dentav X,0.106,VC 2010,0,0
+D0035,08-07-2010,2010,Series_C,Polaris Partners,Lumtav ON,0.213,Series_C 2010,0,0
+D0039,20-07-2010,2010,VC,Sofinnova Investments,Oncvec AB,0.064,VC 2010,0,0
+D0044,05-08-2010,2010,M&A,J&J,Tavjas ON,0.358,M&A 2010,0,0
+D0055,10-09-2010,2010,VC,ARCH Venture Partners,Xenzeo AB,0.081,VC 2010,0,0
+D0034,16-09-2010,2010,M&A,AbbVie,Xentav X,0.764,M&A 2010,0,0
+D0051,23-10-2010,2010,Series_B,Bain Capital Life Sciences,Unisyn AB,0.076,Series_B 2010,0,0
+D0048,08-11-2010,2010,Series_B,a16z Bio,Xenrep AB,0.018,Series_B 2010,0,0
+D0057,12-11-2010,2010,VC,Third Rock Ventures,Denuni Therapeutics,0.375,VC 2010,0,0
+D0033,15-11-2010,2010,Series_C,Third Rock Ventures,Lumtav ON,0.036,Series_C 2010,0,0
+D0102,02-01-2011,2011,IPO,Public markets,Celimm IO,0.962,IPO 2011,0,0
+D0065,03-01-2011,2011,IPO,Public markets,Yotzeo IO,0.177,IPO 2011,0,0
+D0068,26-01-2011,2011,Series_B,Polaris Partners,Lumrep Therapeutics,0.14,Series_B 2011,0,0
+D0101,19-02-2011,2011,VC,OrbiMed,Kymimm BIO,0.534,VC 2011,0,0
+D0073,01-03-2011,2011,Series_B,a16z Bio,Synaer Tx,0.037,Series_B 2011,0,0
+D0096,04-03-2011,2011,VC,Bain Capital Life Sciences,Epikym BIO,0.158,VC 2011,0,0
+D0078,07-03-2011,2011,Series_B,F-Prime Capital,Immaer OS,0.163,Series_B 2011,0,0
+D0085,07-03-2011,2011,Series_B,a16z Bio,Quozeo Therapeutics,0.629,Series_B 2011,0,0
+D0063,08-03-2011,2011,VC,GV (Google Ventures),Unikym IO,0.849,VC 2011,0,0
+D0084,10-03-2011,2011,M&A,Sanofi,Immrep Therapeutics,19.866,M&A 2011,1,0
+D0107,12-03-2011,2011,IPO,Public markets,Celkym X,0.068,IPO 2011,0,0
+D0092,23-03-2011,2011,VC,RA Capital,Unisyn BIO,0.191,VC 2011,0,0
+D0070,16-04-2011,2011,Series_B,a16z Bio,Oncxen IO,0.407,Series_B 2011,0,0
+D0103,16-04-2011,2011,Series_C,Versant Ventures,Aerpro AB,0.21,Series_C 2011,0,0
+D0106,21-04-2011,2011,VC,ARCH Venture Partners,Repvec Therapeutics,0.161,VC 2011,0,0
+D0104,22-04-2011,2011,VC,RA Capital,Neuzeo X,0.267,VC 2011,0,0
+D0083,27-05-2011,2011,VC,OrbiMed,Tavlum X,0.202,VC 2011,0,0
+D0099,01-06-2011,2011,IPO,Public markets,Onczeo OS,0.428,IPO 2011,0,0
+D0105,07-06-2011,2011,Series_C,RA Capital,Vecepi AB,0.222,Series_C 2011,0,0
+D0088,10-06-2011,2011,Series_B,ARCH Venture Partners,Gengen BIO,0.064,Series_B 2011,0,0
+D0077,17-06-2011,2011,Crossover,F-Prime Capital,Modrep X,0.263,Crossover 2011,0,0
+D0079,24-06-2011,2011,Series_B,Flagship Pioneering,Lumyot BIO,0.113,Series_B 2011,0,0
+D0100,10-07-2011,2011,IPO,Public markets,Oncmod OS,0.993,IPO 2011,0,0
+D0097,11-07-2011,2011,IPO,Public markets,Jaszeo IO,0.066,IPO 2011,0,0
+D0064,18-07-2011,2011,Series_B,OrbiMed,Oncneu Therapeutics,0.085,Series_B 2011,0,0
+D0090,20-07-2011,2011,Series_B,OrbiMed,Repgen OS,0.128,Series_B 2011,0,0
+D0071,21-07-2011,2011,IPO,Public markets,Modimm GX,0.778,IPO 2011,0,0
+D0095,23-07-2011,2011,VC,Bain Capital Life Sciences,Neujas AB,0.478,VC 2011,0,0
+D0093,24-07-2011,2011,Series_B,a16z Bio,Zeosyn Therapeutics,0.183,Series_B 2011,0,0
+D0081,08-09-2011,2011,VC,Bain Capital Life Sciences,Denzeo Tx,0.048,VC 2011,0,0
+D0072,25-09-2011,2011,Series_B,Sofinnova Investments,Oncrep GX,0.012,Series_B 2011,0,0
+D0098,07-10-2011,2011,Series_B,Third Rock Ventures,Biorep BIO,0.055,Series_B 2011,0,0
+D0066,10-10-2011,2011,Series_B,Flagship Pioneering,Vecjas ON,0.173,Series_B 2011,0,0
+D0094,12-10-2011,2011,VC,OrbiMed,Vecmod Therapeutics,0.251,VC 2011,0,0
+D0069,19-10-2011,2011,M&A,AbbVie,Immepi BIO,0.8,M&A 2011,0,0
+D0076,26-10-2011,2011,Series_C,Flagship Pioneering,Proxen AB,0.424,Series_C 2011,0,0
+D0089,11-11-2011,2011,M&A,Novartis,Neuxen BIO,0.08,M&A 2011,0,0
+D0091,13-11-2011,2011,M&A,BMS,Xentav AB,18.096,M&A 2011,1,0
+D0082,18-11-2011,2011,Series_B,Flagship Pioneering,Aeronc Tx,0.134,Series_B 2011,0,0
+D0075,23-11-2011,2011,M&A,Gilead,Genkym AB,0.078,M&A 2011,0,0
+D0080,09-12-2011,2011,M&A,Amgen,Denuni AB,1.186,M&A 2011,0,0
+D0086,11-12-2011,2011,Series_C,Third Rock Ventures,Protav BIO,0.449,Series_C 2011,0,0
+D0087,20-12-2011,2011,IPO,Public markets,Unipro OS,0.379,IPO 2011,0,0
+D0074,23-12-2011,2011,Series_C,Polaris Partners,Zeoxen GX,0.213,Series_C 2011,0,0
+D0067,27-12-2011,2011,M&A,Novartis,Onconc AB,0.571,M&A 2011,0,0
+D0121,03-01-2012,2012,Series_B,RA Capital,Uniimm ON,0.049,Series_B 2012,0,0
+D0155,03-01-2012,2012,M&A,J&J,Bioyot RX,0.504,M&A 2012,0,0
+D0108,15-01-2012,2012,VC,Sofinnova Investments,Immhap Tx,0.061,VC 2012,0,0
+D0133,16-01-2012,2012,VC,F-Prime Capital,Immpro RX,0.279,VC 2012,0,0
+D0151,17-01-2012,2012,VC,F-Prime Capital,Biolum ON,0.106,VC 2012,0,0
+D0130,21-01-2012,2012,Series_B,OrbiMed,Uniyot RX,0.005,Series_B 2012,0,0
+D0136,22-01-2012,2012,IPO,Public markets,Lumzeo GX,0.227,IPO 2012,0,0
+D0150,09-02-2012,2012,VC,Bain Capital Life Sciences,Epilum OS,0.486,VC 2012,0,0
+D0118,18-02-2012,2012,M&A,AstraZeneca,Genonc BIO,1.457,M&A 2012,0,0
+D0157,26-02-2012,2012,Crossover,ARCH Venture Partners,Lumhap GX,0.311,Crossover 2012,0,0
+D0141,05-03-2012,2012,Series_B,Bain Capital Life Sciences,Denkym GX,0.119,Series_B 2012,0,0
+D0147,07-03-2012,2012,IPO,Public markets,Unilum X,0.233,IPO 2012,0,0
+D0120,09-03-2012,2012,M&A,Sanofi,Xenmod IO,0.628,M&A 2012,0,0
+D0144,10-03-2012,2012,VC,RA Capital,Yottav RX,0.214,VC 2012,0,0
+D0131,11-03-2012,2012,VC,F-Prime Capital,Modlum GX,0.254,VC 2012,0,0
+D0135,27-03-2012,2012,VC,GV (Google Ventures),Uniyot Tx,0.233,VC 2012,0,0
+D0146,27-03-2012,2012,IPO,Public markets,Repaer RX,1.585,IPO 2012,0,0
+D0129,07-04-2012,2012,Crossover,Sofinnova Investments,Prozeo BIO,0.1,Crossover 2012,0,0
+D0137,17-04-2012,2012,VC,Polaris Partners,Repyot RX,0.079,VC 2012,0,0
+D0148,17-04-2012,2012,Series_B,Third Rock Ventures,Neuepi GX,0.672,Series_B 2012,0,0
+D0142,03-05-2012,2012,VC,Polaris Partners,Xenmod IO,0.037,VC 2012,0,0
+D0152,12-05-2012,2012,Series_B,Bain Capital Life Sciences,Lumcel RX,0.492,Series_B 2012,0,0
+D0113,14-05-2012,2012,VC,a16z Bio,Unikym GX,0.103,VC 2012,0,0
+D0154,17-05-2012,2012,Series_C,a16z Bio,Biovec OS,0.395,Series_C 2012,0,0
+D0143,17-05-2012,2012,Series_C,a16z Bio,Xenmod ON,0.085,Series_C 2012,0,0
+D0145,17-05-2012,2012,VC,RA Capital,Moduni OS,0.057,VC 2012,0,0
+D0116,22-05-2012,2012,Series_B,F-Prime Capital,Lumsyn Therapeutics,0.519,Series_B 2012,0,0
+D0111,24-05-2012,2012,Crossover,Versant Ventures,Oncepi BIO,0.652,Crossover 2012,0,0
+D0109,04-06-2012,2012,IPO,Public markets,Hapimm RX,0.202,IPO 2012,0,0
+D0110,26-06-2012,2012,VC,OrbiMed,Xenkym OS,0.026,VC 2012,0,0
+D0115,08-07-2012,2012,IPO,Public markets,Yotbio Therapeutics,0.176,IPO 2012,0,0
+D0127,27-07-2012,2012,VC,ARCH Venture Partners,Immimm GX,0.067,VC 2012,0,0
+D0134,03-08-2012,2012,VC,Polaris Partners,Celsyn X,0.082,VC 2012,0,0
+D0112,13-08-2012,2012,M&A,Pfizer,Hapvec BIO,0.032,M&A 2012,0,0
+D0125,16-08-2012,2012,Series_C,Versant Ventures,Epicel Tx,0.121,Series_C 2012,0,0
+D0153,09-09-2012,2012,IPO,Public markets,Lumjas Therapeutics,0.446,IPO 2012,0,0
+D0126,04-10-2012,2012,VC,Bain Capital Life Sciences,Genuni RX,0.026,VC 2012,0,0
+D0119,07-10-2012,2012,VC,F-Prime Capital,Onconc Therapeutics,1.117,VC 2012,0,0
+D0156,15-10-2012,2012,Crossover,ARCH Venture Partners,Jaslum RX,0.138,Crossover 2012,0,0
+D0128,04-11-2012,2012,Series_B,Third Rock Ventures,Jaslum GX,0.166,Series_B 2012,0,0
+D0124,07-11-2012,2012,VC,F-Prime Capital,Denyot OS,0.036,VC 2012,0,0
+D0123,09-11-2012,2012,Series_B,a16z Bio,Lumxen GX,0.196,Series_B 2012,0,0
+D0140,19-11-2012,2012,VC,Third Rock Ventures,Lumyot IO,0.119,VC 2012,0,0
+D0114,23-11-2012,2012,VC,F-Prime Capital,Quobio Tx,0.083,VC 2012,0,0
+D0117,04-12-2012,2012,M&A,Sanofi,Neurep Tx,50,M&A 2012,1,0
+D0122,15-12-2012,2012,VC,Flagship Pioneering,Unisyn Therapeutics,0.277,VC 2012,0,0
+D0132,18-12-2012,2012,M&A,AbbVie,Jasbio OS,1.243,M&A 2012,0,0
+D0149,19-12-2012,2012,Series_C,Bain Capital Life Sciences,Modsyn RX,0.179,Series_C 2012,0,0
+D0139,22-12-2012,2012,Series_C,Flagship Pioneering,Kymxen BIO,0.041,Series_C 2012,0,0
+D0138,23-12-2012,2012,Series_B,Flagship Pioneering,Neurep Therapeutics,0.127,Series_B 2012,0,0
+D0179,14-01-2013,2013,VC,ARCH Venture Partners,Biouni GX,0.094,VC 2013,0,0
+D0204,18-01-2013,2013,VC,Versant Ventures,Neupro BIO,0.207,VC 2013,0,0
+D0199,27-01-2013,2013,VC,Flagship Pioneering,Genden IO,0.011,VC 2013,0,0
+D0210,06-02-2013,2013,Series_B,Flagship Pioneering,Synrep IO,0.179,Series_B 2013,0,0
+D0200,07-02-2013,2013,M&A,BMS,Celzeo OS,16.822,M&A 2013,1,0
+D0198,15-02-2013,2013,Series_B,ARCH Venture Partners,Hapzeo Therapeutics,0.12,Series_B 2013,0,0
+D0178,18-02-2013,2013,VC,Flagship Pioneering,Genimm Therapeutics,0.036,VC 2013,0,0
+D0172,21-02-2013,2013,VC,GV (Google Ventures),Hapgen Therapeutics,0.577,VC 2013,0,0
+D0168,27-02-2013,2013,Series_C,Versant Ventures,Quokym IO,1.079,Series_C 2013,0,0
+D0169,05-03-2013,2013,M&A,Amgen,Genyot Therapeutics,0.908,M&A 2013,0,0
+D0191,08-03-2013,2013,M&A,Merck,Yotxen ON,3.058,M&A 2013,0,0
+D0182,11-03-2013,2013,VC,F-Prime Capital,Zeotav X,0.293,VC 2013,0,0
+D0209,17-03-2013,2013,M&A,AstraZeneca,Synxen Therapeutics,0.126,M&A 2013,0,0
+D0170,22-03-2013,2013,VC,Polaris Partners,Yotjas BIO,0.376,VC 2013,0,0
+D0176,04-04-2013,2013,M&A,Novartis,Vecquo BIO,23.031,M&A 2013,1,0
+D0189,09-04-2013,2013,VC,Atlas Venture,Biozeo GX,0.225,VC 2013,0,0
+D0195,21-04-2013,2013,IPO,Public markets,Bioonc RX,0.209,IPO 2013,0,0
+D0208,02-05-2013,2013,VC,Versant Ventures,Kymneu ON,0.031,VC 2013,0,0
+D0202,09-06-2013,2013,Series_B,OrbiMed,Quoden IO,0.097,Series_B 2013,0,0
+D0180,13-06-2013,2013,VC,F-Prime Capital,Tavtav BIO,0.075,VC 2013,0,0
+D0160,23-06-2013,2013,M&A,Novartis,Biomod Therapeutics,0.879,M&A 2013,0,0
+D0197,14-07-2013,2013,Series_C,a16z Bio,Tavlum BIO,0.035,Series_C 2013,0,0
+D0212,18-07-2013,2013,Series_B,ARCH Venture Partners,Immlum Tx,0.112,Series_B 2013,0,0
+D0194,20-07-2013,2013,VC,RA Capital,Lumaer Tx,0.245,VC 2013,0,0
+D0161,22-07-2013,2013,Series_B,Polaris Partners,Zeobio AB,0.032,Series_B 2013,0,0
+D0185,26-07-2013,2013,IPO,Public markets,Epipro Tx,0.303,IPO 2013,0,0
+D0173,04-08-2013,2013,VC,ARCH Venture Partners,Vecjas RX,0.024,VC 2013,0,0
+D0211,06-08-2013,2013,VC,Third Rock Ventures,Unixen ON,0.063,VC 2013,0,0
+D0188,08-08-2013,2013,VC,Versant Ventures,Immpro Tx,0.464,VC 2013,0,0
+D0192,09-08-2013,2013,Crossover,OrbiMed,Unitav BIO,0.066,Crossover 2013,0,0
+D0190,17-08-2013,2013,Series_C,Bain Capital Life Sciences,Quoden ON,0.347,Series_C 2013,0,0
+D0163,19-08-2013,2013,IPO,Public markets,Proxen RX,0.486,IPO 2013,0,0
+D0162,21-08-2013,2013,IPO,Public markets,Neuvec X,0.113,IPO 2013,0,0
+D0159,25-08-2013,2013,Series_C,OrbiMed,Genepi GX,1.615,Series_C 2013,0,0
+D0177,27-08-2013,2013,VC,Third Rock Ventures,Yotquo IO,0.202,VC 2013,0,0
+D0167,02-09-2013,2013,VC,OrbiMed,Yottav Therapeutics,0.445,VC 2013,0,0
+D0181,06-09-2013,2013,VC,Sofinnova Investments,Jasrep IO,0.137,VC 2013,0,0
+D0165,08-09-2013,2013,VC,ARCH Venture Partners,Jassyn OS,0.149,VC 2013,0,0
+D0171,14-09-2013,2013,Series_C,F-Prime Capital,Zeotav Tx,0.1,Series_C 2013,0,0
+D0183,14-09-2013,2013,Series_C,Sofinnova Investments,Lumquo OS,0.096,Series_C 2013,0,0
+D0174,17-09-2013,2013,M&A,BMS,Uniuni X,0.226,M&A 2013,0,0
+D0186,18-09-2013,2013,VC,F-Prime Capital,Vecyot AB,0.138,VC 2013,0,0
+D0196,19-09-2013,2013,VC,Polaris Partners,Denquo AB,0.035,VC 2013,0,0
+D0206,23-09-2013,2013,VC,Polaris Partners,Synsyn Therapeutics,0.085,VC 2013,0,0
+D0203,26-09-2013,2013,Crossover,Atlas Venture,Xenhap ON,0.11,Crossover 2013,0,0
+D0164,27-09-2013,2013,Series_B,Flagship Pioneering,Tavepi IO,0.146,Series_B 2013,0,0
+D0158,01-10-2013,2013,Series_C,Sofinnova Investments,Quoxen Tx,0.22,Series_C 2013,0,0
+D0207,01-10-2013,2013,VC,Bain Capital Life Sciences,Haplum Tx,0.098,VC 2013,0,0
+D0193,07-10-2013,2013,M&A,Gilead,Denbio Therapeutics,1.756,M&A 2013,0,0
+D0175,12-11-2013,2013,M&A,Merck,Oncgen RX,0.071,M&A 2013,0,0
+D0201,21-11-2013,2013,VC,Polaris Partners,Quomod BIO,0.297,VC 2013,0,0
+D0187,01-12-2013,2013,M&A,Gilead,Zeoonc ON,1.284,M&A 2013,0,0
+D0184,06-12-2013,2013,IPO,Public markets,Gengen ON,0.461,IPO 2013,0,0
+D0166,07-12-2013,2013,VC,Sofinnova Investments,Repkym OS,0.142,VC 2013,0,0
+D0205,20-12-2013,2013,Series_C,Flagship Pioneering,Yotzeo Tx,0.061,Series_C 2013,0,0
+D0216,04-01-2014,2014,Crossover,Atlas Venture,Jasuni OS,0.33,Crossover 2014,0,0
+D0252,17-01-2014,2014,VC,ARCH Venture Partners,Biokym X,0.075,VC 2014,0,0
+D0218,18-01-2014,2014,VC,RA Capital,Yotcel X,0.512,VC 2014,0,0
+D0245,19-01-2014,2014,VC,Third Rock Ventures,Proimm BIO,0.059,VC 2014,0,0
+D0258,16-02-2014,2014,VC,Polaris Partners,Genimm BIO,0.063,VC 2014,0,0
+D0272,17-02-2014,2014,VC,Sofinnova Investments,Vecbio BIO,0.115,VC 2014,0,0
+D0230,21-02-2014,2014,M&A,J&J,Tavyot X,50,M&A 2014,1,0
+D0243,22-02-2014,2014,Series_C,Polaris Partners,Kymquo RX,0.403,Series_C 2014,0,0
+D0270,01-03-2014,2014,Series_B,ARCH Venture Partners,Tavuni GX,0.055,Series_B 2014,0,0
+D0219,03-03-2014,2014,VC,Polaris Partners,Immmod GX,0.322,VC 2014,0,0
+D0257,09-03-2014,2014,VC,Third Rock Ventures,Oncden BIO,0.215,VC 2014,0,0
+D0226,17-03-2014,2014,VC,a16z Bio,Lumneu RX,0.428,VC 2014,0,0
+D0214,25-03-2014,2014,VC,OrbiMed,Xenzeo RX,0.026,VC 2014,0,0
+D0238,25-03-2014,2014,VC,F-Prime Capital,Synepi BIO,0.215,VC 2014,0,0
+D0261,01-04-2014,2014,Series_B,ARCH Venture Partners,Celtav BIO,0.086,Series_B 2014,0,0
+D0239,20-04-2014,2014,Series_B,Atlas Venture,Aerimm BIO,0.106,Series_B 2014,0,0
+D0222,11-05-2014,2014,VC,Sofinnova Investments,Celtav ON,0.073,VC 2014,0,0
+D0229,15-05-2014,2014,VC,Sofinnova Investments,Xenpro X,0.03,VC 2014,0,0
+D0215,17-05-2014,2014,VC,F-Prime Capital,Provec X,0.299,VC 2014,0,0
+D0262,19-05-2014,2014,M&A,Sanofi,Veconc IO,8.241,M&A 2014,0,0
+D0266,21-05-2014,2014,Series_B,Third Rock Ventures,Aerlum Tx,0.951,Series_B 2014,0,0
+D0264,24-05-2014,2014,VC,Sofinnova Investments,Aerimm RX,0.051,VC 2014,0,0
+D0002,26-05-2014,2014,M&A,Bayer,Merck Consumer Care,14.2,Consumer health acquisition,1,1
+D0247,08-06-2014,2014,Series_C,Flagship Pioneering,Celkym IO,0.123,Series_C 2014,0,0
+D0231,10-06-2014,2014,VC,GV (Google Ventures),Tavsyn ON,0.11,VC 2014,0,0
+D0253,12-06-2014,2014,VC,Third Rock Ventures,Aercel ON,0.307,VC 2014,0,0
+D0249,16-06-2014,2014,VC,Atlas Venture,Modjas BIO,0.096,VC 2014,0,0
+D0271,18-06-2014,2014,VC,Polaris Partners,Quouni IO,0.038,VC 2014,0,0
+D0237,25-06-2014,2014,M&A,AstraZeneca,Jasgen RX,2.936,M&A 2014,0,0
+D0259,16-07-2014,2014,Series_C,Bain Capital Life Sciences,Genlum X,0.292,Series_C 2014,0,0
+D0217,18-07-2014,2014,IPO,Public markets,Epineu ON,0.487,IPO 2014,0,0
+D0225,19-07-2014,2014,Series_B,Bain Capital Life Sciences,Celaer RX,0.079,Series_B 2014,0,0
+D0248,21-07-2014,2014,Series_C,Flagship Pioneering,Jasuni X,0.173,Series_C 2014,0,0
+D0268,01-08-2014,2014,VC,Flagship Pioneering,Genkym Tx,0.099,VC 2014,0,0
+D0255,03-08-2014,2014,Series_B,GV (Google Ventures),Lumvec RX,0.088,Series_B 2014,0,0
+D0269,13-08-2014,2014,IPO,Public markets,Epikym X,0.275,IPO 2014,0,0
+D0221,16-08-2014,2014,Series_B,Sofinnova Investments,Modsyn IO,0.545,Series_B 2014,0,0
+D0267,19-08-2014,2014,IPO,Public markets,Hapjas IO,2.176,IPO 2014,0,0
+D0241,19-08-2014,2014,Series_B,Versant Ventures,Celkym IO,0.055,Series_B 2014,0,0
+D0228,20-08-2014,2014,M&A,Pfizer,Xenaer BIO,0.13,M&A 2014,0,0
+D0256,21-08-2014,2014,VC,Versant Ventures,Quomod RX,0.038,VC 2014,0,0
+D0265,23-08-2014,2014,IPO,Public markets,Xenjas Tx,0.54,IPO 2014,0,0
+D0260,08-09-2014,2014,IPO,Public markets,Yotrep BIO,0.162,IPO 2014,0,0
+D0232,08-09-2014,2014,Series_B,Atlas Venture,Tavjas GX,0.124,Series_B 2014,0,0
+D0227,27-09-2014,2014,M&A,Roche,Repepi ON,12.267,M&A 2014,1,0
+D0254,06-10-2014,2014,IPO,Public markets,Lumden Tx,1.388,IPO 2014,0,0
+D0224,09-10-2014,2014,VC,GV (Google Ventures),Yotmod ON,0.626,VC 2014,0,0
+D0233,12-10-2014,2014,M&A,BMS,Immonc RX,0.897,M&A 2014,0,0
+D0244,14-10-2014,2014,VC,Bain Capital Life Sciences,Projas X,0.405,VC 2014,0,0
+D0251,16-10-2014,2014,Series_C,Polaris Partners,Xenpro AB,0.23,Series_C 2014,0,0
+D0250,23-10-2014,2014,VC,a16z Bio,Xenxen IO,0.563,VC 2014,0,0
+D0240,27-10-2014,2014,Series_B,ARCH Venture Partners,Veconc Tx,0.13,Series_B 2014,0,0
+D0242,01-11-2014,2014,IPO,Public markets,Xenbio BIO,0.197,IPO 2014,0,0
+D0223,13-11-2014,2014,VC,Sofinnova Investments,Immepi Tx,0.322,VC 2014,0,0
+D0246,14-11-2014,2014,VC,OrbiMed,Aeruni Therapeutics,0.071,VC 2014,0,0
+D0235,17-11-2014,2014,VC,Flagship Pioneering,Quoxen AB,0.587,VC 2014,0,0
+D0003,17-11-2014,2014,M&A,Actavis,Allergan,70.5,Generics consolidation,1,1
+D0213,18-11-2014,2014,Series_B,Polaris Partners,Syngen ON,0.202,Series_B 2014,0,0
+D0220,09-12-2014,2014,M&A,Merck,Zeoden Tx,0.467,M&A 2014,0,0
+D0236,14-12-2014,2014,VC,F-Prime Capital,Oncaer X,0.116,VC 2014,0,0
+D0234,23-12-2014,2014,VC,F-Prime Capital,Lumyot Tx,0.047,VC 2014,0,0
+D0263,27-12-2014,2014,VC,Polaris Partners,Vecxen IO,0.069,VC 2014,0,0
+D0317,09-01-2015,2015,VC,Flagship Pioneering,Denuni ON,0.128,VC 2015,0,0
+D0339,12-01-2015,2015,VC,OrbiMed,Dencel Therapeutics,0.185,VC 2015,0,0
+D0294,14-01-2015,2015,M&A,GSK,Celrep AB,2.561,M&A 2015,0,0
+D0278,15-01-2015,2015,M&A,Gilead,Zeotav ON,10.014,M&A 2015,1,0
+D0289,20-01-2015,2015,Series_C,OrbiMed,Yottav OS,0.212,Series_C 2015,0,0
+D0309,20-01-2015,2015,IPO,Public markets,Yotimm OS,0.258,IPO 2015,0,0
+D0335,22-01-2015,2015,VC,GV (Google Ventures),Celgen BIO,0.281,VC 2015,0,0
+D0310,16-02-2015,2015,VC,Versant Ventures,Modpro GX,0.435,VC 2015,0,0
+D0322,22-02-2015,2015,Series_B,OrbiMed,Zeoonc IO,0.204,Series_B 2015,0,0
+D0315,26-02-2015,2015,Crossover,RA Capital,Yotonc X,0.064,Crossover 2015,0,0
+D0319,06-03-2015,2015,Series_B,OrbiMed,Rephap IO,0.032,Series_B 2015,0,0
+D0328,07-03-2015,2015,M&A,Novartis,Haplum IO,1.033,M&A 2015,0,0
+D0274,07-03-2015,2015,IPO,Public markets,Unilum IO,0.317,IPO 2015,0,0
+D0304,18-03-2015,2015,M&A,Eli Lilly,Yotsyn Therapeutics,50,M&A 2015,1,0
+D0300,23-03-2015,2015,M&A,BMS,Celonc RX,1.657,M&A 2015,0,0
+D0292,24-03-2015,2015,VC,F-Prime Capital,Synbio RX,0.025,VC 2015,0,0
+D0338,26-03-2015,2015,IPO,Public markets,Modepi IO,0.407,IPO 2015,0,0
+D0004,30-03-2015,2015,M&A,Teva,Allergan Generics,40.5,Generics consolidation,1,1
+D0324,09-04-2015,2015,VC,RA Capital,Prouni BIO,0.073,VC 2015,0,0
+D0302,11-04-2015,2015,VC,GV (Google Ventures),Vecden AB,0.32,VC 2015,0,0
+D0340,12-04-2015,2015,VC,GV (Google Ventures),Zeopro Tx,0.043,VC 2015,0,0
+D0277,13-04-2015,2015,VC,Sofinnova Investments,Lumden Tx,0.376,VC 2015,0,0
+D0295,18-04-2015,2015,Crossover,Flagship Pioneering,Vecyot GX,0.557,Crossover 2015,0,0
+D0327,18-04-2015,2015,Series_C,Third Rock Ventures,Tavjas BIO,0.054,Series_C 2015,0,0
+D0285,21-04-2015,2015,VC,Sofinnova Investments,Celimm RX,0.79,VC 2015,0,0
+D0316,27-04-2015,2015,Series_B,Versant Ventures,Prouni BIO,0.669,Series_B 2015,0,0
+D0323,02-05-2015,2015,Series_B,Bain Capital Life Sciences,Epigen X,0.036,Series_B 2015,0,0
+D0284,06-05-2015,2015,Series_C,F-Prime Capital,Zeocel Therapeutics,0.247,Series_C 2015,0,0
+D0279,20-05-2015,2015,Crossover,F-Prime Capital,Modsyn GX,0.045,Crossover 2015,0,0
+D0275,22-05-2015,2015,IPO,Public markets,Oncrep ON,0.405,IPO 2015,0,0
+D0308,25-05-2015,2015,Series_C,Bain Capital Life Sciences,Vecneu X,0.072,Series_C 2015,0,0
+D0293,25-05-2015,2015,IPO,Public markets,Unicel ON,0.157,IPO 2015,0,0
+D0283,01-06-2015,2015,Series_C,Sofinnova Investments,Neuepi GX,0.19,Series_C 2015,0,0
+D0299,02-06-2015,2015,IPO,Public markets,Xenxen Therapeutics,0.283,IPO 2015,0,0
+D0276,02-06-2015,2015,Series_B,OrbiMed,Vecepi BIO,0.027,Series_B 2015,0,0
+D0287,09-06-2015,2015,VC,Polaris Partners,Moduni OS,0.226,VC 2015,0,0
+D0330,18-06-2015,2015,Series_B,Polaris Partners,Oncimm AB,0.134,Series_B 2015,0,0
+D0337,20-06-2015,2015,VC,F-Prime Capital,Epihap AB,0.073,VC 2015,0,0
+D0280,23-06-2015,2015,VC,F-Prime Capital,Synonc OS,0.522,VC 2015,0,0
+D0311,23-06-2015,2015,VC,ARCH Venture Partners,Lumkym BIO,0.057,VC 2015,0,0
+D0296,16-07-2015,2015,Series_C,ARCH Venture Partners,Unijas Tx,0.804,Series_C 2015,0,0
+D0291,09-08-2015,2015,Series_C,Versant Ventures,Synepi Therapeutics,0.055,Series_C 2015,0,0
+D0305,18-08-2015,2015,VC,F-Prime Capital,Genkym IO,0.125,VC 2015,0,0
+D0333,19-08-2015,2015,M&A,Merck,Hapquo RX,0.556,M&A 2015,0,0
+D0282,22-08-2015,2015,Series_B,Sofinnova Investments,Celjas Tx,1.142,Series_B 2015,0,0
+D0314,26-08-2015,2015,VC,RA Capital,Jasepi ON,0.227,VC 2015,0,0
+D0313,02-09-2015,2015,VC,Polaris Partners,Kympro GX,0.143,VC 2015,0,0
+D0312,02-09-2015,2015,Series_B,Third Rock Ventures,Oncgen GX,0.136,Series_B 2015,0,0
+D0331,09-09-2015,2015,Series_B,OrbiMed,Tavlum RX,0.143,Series_B 2015,0,0
+D0306,14-09-2015,2015,IPO,Public markets,Aerhap IO,0.51,IPO 2015,0,0
+D0320,19-09-2015,2015,VC,Sofinnova Investments,Biovec Tx,0.041,VC 2015,0,0
+D0301,21-09-2015,2015,VC,Third Rock Ventures,Onconc Therapeutics,0.012,VC 2015,0,0
+D0332,24-09-2015,2015,VC,Sofinnova Investments,Aergen Therapeutics,0.128,VC 2015,0,0
+D0290,24-09-2015,2015,Series_B,F-Prime Capital,Repmod OS,0.143,Series_B 2015,0,0
+D0273,02-10-2015,2015,M&A,Roche,Celquo BIO,10.045,M&A 2015,1,0
+D0303,04-10-2015,2015,M&A,Roche,Denquo Tx,20.382,M&A 2015,1,0
+D0298,05-10-2015,2015,M&A,Eli Lilly,Univec Tx,1.058,M&A 2015,0,0
+D0336,05-10-2015,2015,Series_C,Third Rock Ventures,Denepi X,1.119,Series_C 2015,0,0
+D0286,16-10-2015,2015,VC,RA Capital,Hapyot RX,0.19,VC 2015,0,0
+D0342,22-10-2015,2015,Series_C,ARCH Venture Partners,Jasgen BIO,0.061,Series_C 2015,0,0
+D0288,25-10-2015,2015,Series_C,Polaris Partners,Immvec IO,0.12,Series_C 2015,0,0
+D0318,07-11-2015,2015,Series_B,OrbiMed,Neumod ON,0.013,Series_B 2015,0,0
+D0341,08-11-2015,2015,Series_B,Flagship Pioneering,Neuzeo Tx,0.778,Series_B 2015,0,0
+D0329,12-11-2015,2015,Series_B,Third Rock Ventures,Neuonc ON,0.135,Series_B 2015,0,0
+D0281,13-11-2015,2015,VC,Versant Ventures,Immyot BIO,0.056,VC 2015,0,0
+D0334,22-11-2015,2015,VC,RA Capital,Xenbio Therapeutics,0.051,VC 2015,0,0
+D0325,26-11-2015,2015,VC,RA Capital,Prohap X,0.117,VC 2015,0,0
+D0307,07-12-2015,2015,IPO,Public markets,Uniepi BIO,2.279,IPO 2015,0,0
+D0321,08-12-2015,2015,VC,Flagship Pioneering,Genimm IO,0.071,VC 2015,0,0
+D0326,11-12-2015,2015,M&A,Novartis,Genzeo RX,0.571,M&A 2015,0,0
+D0297,24-12-2015,2015,VC,RA Capital,Zeorep GX,0.298,VC 2015,0,0
+D0383,03-01-2016,2016,Series_B,ARCH Venture Partners,Projas AB,0.454,Series_B 2016,0,0
+D0356,05-01-2016,2016,M&A,Roche,Syncel X,3.049,M&A 2016,0,0
+D0353,07-01-2016,2016,VC,Third Rock Ventures,Onconc X,0.119,VC 2016,0,0
+D0372,22-01-2016,2016,Series_B,Bain Capital Life Sciences,Yotsyn Tx,0.263,Series_B 2016,0,0
+D0005,26-01-2016,2016,M&A,Shire,Baxalta,32,Rare disease deal,1,1
+D0370,01-02-2016,2016,Series_B,Versant Ventures,Oncgen X,0.404,Series_B 2016,0,0
+D0368,02-02-2016,2016,Series_B,Bain Capital Life Sciences,Jassyn IO,0.273,Series_B 2016,0,0
+D0385,09-02-2016,2016,Series_B,ARCH Venture Partners,Immmod AB,0.031,Series_B 2016,0,0
+D0343,13-02-2016,2016,VC,Bain Capital Life Sciences,Modkym Therapeutics,0.086,VC 2016,0,0
+D0364,18-02-2016,2016,VC,RA Capital,Veconc AB,0.373,VC 2016,0,0
+D0363,19-02-2016,2016,VC,Versant Ventures,Oncpro ON,0.409,VC 2016,0,0
+D0346,19-02-2016,2016,Series_B,Flagship Pioneering,Gengen RX,0.805,Series_B 2016,0,0
+D0403,22-02-2016,2016,M&A,AbbVie,Hapneu ON,0.154,M&A 2016,0,0
+D0354,02-03-2016,2016,M&A,Gilead,Zeoneu GX,0.794,M&A 2016,0,0
+D0380,05-03-2016,2016,VC,Third Rock Ventures,Quopro Tx,0.166,VC 2016,0,0
+D0369,08-03-2016,2016,IPO,Public markets,Denepi AB,0.123,IPO 2016,0,0
+D0365,09-03-2016,2016,Series_B,Bain Capital Life Sciences,Unizeo Therapeutics,0.122,Series_B 2016,0,0
+D0345,15-03-2016,2016,VC,ARCH Venture Partners,Denzeo AB,0.024,VC 2016,0,0
+D0381,15-03-2016,2016,M&A,Gilead,Unilum ON,2.798,M&A 2016,0,0
+D0379,23-03-2016,2016,VC,Flagship Pioneering,Bioden ON,0.148,VC 2016,0,0
+D0384,25-03-2016,2016,Series_B,Atlas Venture,Xenxen IO,0.279,Series_B 2016,0,0
+D0360,04-04-2016,2016,VC,Sofinnova Investments,Quoimm Tx,0.05,VC 2016,0,0
+D0402,13-04-2016,2016,VC,Polaris Partners,Repepi ON,0.696,VC 2016,0,0
+D0366,16-04-2016,2016,VC,Atlas Venture,Prorep OS,0.075,VC 2016,0,0
+D0391,18-04-2016,2016,Series_B,a16z Bio,Unijas GX,0.282,Series_B 2016,0,0
+D0351,27-04-2016,2016,VC,Atlas Venture,Zeohap IO,0.304,VC 2016,0,0
+D0400,01-05-2016,2016,VC,Sofinnova Investments,Hapquo BIO,0.648,VC 2016,0,0
+D0376,08-05-2016,2016,VC,ARCH Venture Partners,Xenhap ON,0.173,VC 2016,0,0
+D0375,25-05-2016,2016,VC,GV (Google Ventures),Modkym Therapeutics,0.115,VC 2016,0,0
+D0392,08-06-2016,2016,Crossover,ARCH Venture Partners,Celxen Therapeutics,0.248,Crossover 2016,0,0
+D0371,14-06-2016,2016,VC,Polaris Partners,Synbio X,0.126,VC 2016,0,0
+D0388,09-07-2016,2016,VC,Sofinnova Investments,Zeovec AB,0.541,VC 2016,0,0
+D0349,13-07-2016,2016,VC,GV (Google Ventures),Immcel Therapeutics,0.046,VC 2016,0,0
+D0401,14-07-2016,2016,VC,Flagship Pioneering,Biobio GX,0.253,VC 2016,0,0
+D0399,16-07-2016,2016,Series_B,F-Prime Capital,Neusyn AB,0.529,Series_B 2016,0,0
+D0406,18-07-2016,2016,VC,F-Prime Capital,Repzeo X,0.033,VC 2016,0,0
+D0390,21-07-2016,2016,VC,Third Rock Ventures,Lumcel ON,0.5,VC 2016,0,0
+D0367,21-07-2016,2016,VC,Sofinnova Investments,Denjas AB,0.062,VC 2016,0,0
+D0373,06-08-2016,2016,VC,ARCH Venture Partners,Neumod Therapeutics,0.054,VC 2016,0,0
+D0382,09-08-2016,2016,VC,a16z Bio,Prozeo ON,0.06,VC 2016,0,0
+D0407,16-08-2016,2016,IPO,Public markets,Vecneu Therapeutics,1.467,IPO 2016,0,0
+D0396,19-08-2016,2016,Series_B,Polaris Partners,Provec RX,0.129,Series_B 2016,0,0
+D0348,22-08-2016,2016,VC,Sofinnova Investments,Immkym BIO,0.027,VC 2016,0,0
+D0389,05-09-2016,2016,VC,ARCH Venture Partners,Onckym OS,0.064,VC 2016,0,0
+D0386,05-09-2016,2016,M&A,Sanofi,Kymaer Therapeutics,0.176,M&A 2016,0,0
+D0377,06-09-2016,2016,Series_C,RA Capital,Jaspro AB,0.075,Series_C 2016,0,0
+D0359,07-09-2016,2016,Series_B,Sofinnova Investments,Vecimm GX,0.295,Series_B 2016,0,0
+D0361,08-09-2016,2016,Crossover,OrbiMed,Genjas GX,0.21,Crossover 2016,0,0
+D0350,08-09-2016,2016,VC,Versant Ventures,Zeoyot Tx,0.074,VC 2016,0,0
+D0347,15-09-2016,2016,Series_B,Polaris Partners,Celhap AB,0.111,Series_B 2016,0,0
+D0405,18-09-2016,2016,VC,Third Rock Ventures,Jasbio RX,0.079,VC 2016,0,0
+D0404,22-09-2016,2016,M&A,J&J,Oncimm IO,1.549,M&A 2016,0,0
+D0344,25-09-2016,2016,Series_B,ARCH Venture Partners,Bioxen RX,0.107,Series_B 2016,0,0
+D0398,26-09-2016,2016,VC,a16z Bio,Prolum Therapeutics,0.21,VC 2016,0,0
+D0357,11-10-2016,2016,VC,Bain Capital Life Sciences,Reptav OS,0.417,VC 2016,0,0
+D0387,05-11-2016,2016,Series_B,Versant Ventures,Repepi ON,0.087,Series_B 2016,0,0
+D0378,13-11-2016,2016,Series_B,GV (Google Ventures),Tavgen X,0.335,Series_B 2016,0,0
+D0352,13-11-2016,2016,VC,Third Rock Ventures,Aergen Therapeutics,0.076,VC 2016,0,0
+D0393,21-11-2016,2016,VC,GV (Google Ventures),Aerbio GX,0.171,VC 2016,0,0
+D0395,22-11-2016,2016,VC,Bain Capital Life Sciences,Jasyot BIO,0.266,VC 2016,0,0
+D0358,23-11-2016,2016,IPO,Public markets,Bioxen X,0.211,IPO 2016,0,0
+D0362,23-11-2016,2016,VC,Atlas Venture,Aeruni RX,0.203,VC 2016,0,0
+D0394,26-11-2016,2016,VC,Third Rock Ventures,Genkym GX,0.139,VC 2016,0,0
+D0355,03-12-2016,2016,IPO,Public markets,Lumrep OS,0.124,IPO 2016,0,0
+D0374,17-12-2016,2016,VC,ARCH Venture Partners,Replum OS,0.429,VC 2016,0,0
+D0397,19-12-2016,2016,M&A,Novartis,Genepi X,0.023,M&A 2016,0,0
+D0481,02-01-2017,2017,VC,Third Rock Ventures,Celrep Therapeutics,0.077,VC 2017,0,0
+D0442,07-01-2017,2017,M&A,Gilead,Oncaer OS,1.247,M&A 2017,0,0
+D0415,13-01-2017,2017,VC,Sofinnova Investments,Haptav AB,0.134,VC 2017,0,0
+D0454,22-01-2017,2017,VC,GV (Google Ventures),Tavyot ON,0.13,VC 2017,0,0
+D0441,25-01-2017,2017,VC,Third Rock Ventures,Hapvec ON,0.375,VC 2017,0,0
+D0409,25-01-2017,2017,Series_B,Versant Ventures,Tavepi ON,0.043,Series_B 2017,0,0
+D0453,16-02-2017,2017,VC,F-Prime Capital,Zeopro X,0.05,VC 2017,0,0
+D0451,21-02-2017,2017,VC,Flagship Pioneering,Proquo AB,0.11,VC 2017,0,0
+D0466,21-02-2017,2017,Series_B,RA Capital,Epibio X,0.067,Series_B 2017,0,0
+D0471,25-02-2017,2017,VC,GV (Google Ventures),Celhap RX,0.053,VC 2017,0,0
+D0461,25-02-2017,2017,VC,F-Prime Capital,Celrep RX,0.018,VC 2017,0,0
+D0478,06-03-2017,2017,Series_C,Polaris Partners,Denquo OS,0.306,Series_C 2017,0,0
+D0408,08-03-2017,2017,VC,Versant Ventures,Denneu RX,0.095,VC 2017,0,0
+D0474,09-03-2017,2017,VC,Flagship Pioneering,Oncxen BIO,0.082,VC 2017,0,0
+D0477,12-03-2017,2017,M&A,J&J,Reponc RX,0.241,M&A 2017,0,0
+D0410,24-03-2017,2017,Series_C,Atlas Venture,Immimm GX,0.252,Series_C 2017,0,0
+D0420,25-03-2017,2017,Series_B,OrbiMed,Vecquo OS,0.092,Series_B 2017,0,0
+D0475,05-04-2017,2017,IPO,Public markets,Aerhap BIO,0.457,IPO 2017,0,0
+D0428,07-04-2017,2017,Crossover,a16z Bio,Quolum RX,0.178,Crossover 2017,0,0
+D0424,07-04-2017,2017,VC,Bain Capital Life Sciences,Replum X,0.197,VC 2017,0,0
+D0479,12-04-2017,2017,Series_B,ARCH Venture Partners,Quopro RX,0.881,Series_B 2017,0,0
+D0467,14-04-2017,2017,VC,GV (Google Ventures),Vecaer Therapeutics,0.058,VC 2017,0,0
+D0470,26-04-2017,2017,VC,OrbiMed,Genvec ON,0.51,VC 2017,0,0
+D0417,26-04-2017,2017,M&A,Pfizer,Epitav Tx,0.023,M&A 2017,0,0
+D0445,24-05-2017,2017,Series_C,Sofinnova Investments,Kymuni RX,0.076,Series_C 2017,0,0
+D0446,02-06-2017,2017,Series_B,Flagship Pioneering,Xenquo BIO,0.139,Series_B 2017,0,0
+D0414,04-06-2017,2017,VC,Polaris Partners,Lumjas IO,0.077,VC 2017,0,0
+D0437,04-06-2017,2017,IPO,Public markets,Neuonc OS,0.322,IPO 2017,0,0
+D0473,05-06-2017,2017,M&A,Sanofi,Biovec Therapeutics,14.703,M&A 2017,1,0
+D0469,12-06-2017,2017,Series_C,Sofinnova Investments,Haponc RX,0.157,Series_C 2017,0,0
+D0482,14-06-2017,2017,M&A,Sanofi,Aerxen AB,0.123,M&A 2017,0,0
+D0430,17-06-2017,2017,Series_C,Third Rock Ventures,Denvec Therapeutics,0.093,Series_C 2017,0,0
+D0452,17-06-2017,2017,IPO,Public markets,Kymsyn Tx,0.352,IPO 2017,0,0
+D0440,24-06-2017,2017,IPO,Public markets,Quozeo GX,0.563,IPO 2017,0,0
+D0438,02-07-2017,2017,Series_B,Atlas Venture,Immhap Therapeutics,0.092,Series_B 2017,0,0
+D0434,04-07-2017,2017,IPO,Public markets,Xenneu RX,0.773,IPO 2017,0,0
+D0421,07-07-2017,2017,VC,Flagship Pioneering,Modaer IO,0.052,VC 2017,0,0
+D0433,19-07-2017,2017,Series_B,F-Prime Capital,Jasxen Therapeutics,0.062,Series_B 2017,0,0
+D0464,19-07-2017,2017,M&A,Sanofi,Celsyn Therapeutics,3.56,M&A 2017,0,0
+D0443,01-08-2017,2017,VC,RA Capital,Synaer AB,0.049,VC 2017,0,0
+D0449,02-08-2017,2017,VC,Third Rock Ventures,Zeocel IO,0.606,VC 2017,0,0
+D0426,03-08-2017,2017,Series_C,ARCH Venture Partners,Uniimm OS,0.237,Series_C 2017,0,0
+D0419,05-08-2017,2017,Series_B,Flagship Pioneering,Onczeo AB,0.445,Series_B 2017,0,0
+D0460,05-08-2017,2017,IPO,Public markets,Celrep AB,0.681,IPO 2017,0,0
+D0439,11-08-2017,2017,M&A,Gilead,Haplum X,2.028,M&A 2017,0,0
+D0416,16-08-2017,2017,M&A,Roche,Provec Tx,1.401,M&A 2017,0,0
+D0447,16-08-2017,2017,IPO,Public markets,Xensyn Tx,0.942,IPO 2017,0,0
+D0472,17-08-2017,2017,Series_C,Bain Capital Life Sciences,Replum AB,0.319,Series_C 2017,0,0
+D0411,08-09-2017,2017,M&A,Pfizer,Tavpro BIO,22.064,M&A 2017,1,0
+D0436,08-09-2017,2017,VC,RA Capital,Epitav ON,0.056,VC 2017,0,0
+D0412,14-09-2017,2017,M&A,AstraZeneca,Jasden IO,2.575,M&A 2017,0,0
+D0418,15-09-2017,2017,Crossover,F-Prime Capital,Jasxen OS,0.075,Crossover 2017,0,0
+D0476,21-09-2017,2017,VC,Atlas Venture,Unihap IO,0.117,VC 2017,0,0
+D0468,23-09-2017,2017,VC,a16z Bio,Denepi AB,0.073,VC 2017,0,0
+D0422,23-09-2017,2017,M&A,J&J,Neuaer X,5.508,M&A 2017,0,0
+D0455,25-09-2017,2017,M&A,Sanofi,Hapcel GX,3.746,M&A 2017,0,0
+D0429,27-09-2017,2017,VC,Versant Ventures,Celuni X,0.018,VC 2017,0,0
+D0423,06-10-2017,2017,VC,ARCH Venture Partners,Uniimm Tx,0.052,VC 2017,0,0
+D0431,10-10-2017,2017,VC,Bain Capital Life Sciences,Neuquo ON,0.056,VC 2017,0,0
+D0450,12-10-2017,2017,IPO,Public markets,Moduni BIO,0.29,IPO 2017,0,0
+D0425,19-10-2017,2017,Series_B,Sofinnova Investments,Oncaer AB,0.178,Series_B 2017,0,0
+D0448,19-10-2017,2017,VC,F-Prime Capital,Jasepi Therapeutics,0.076,VC 2017,0,0
+D0427,21-10-2017,2017,VC,Third Rock Ventures,Biozeo GX,0.428,VC 2017,0,0
+D0435,25-10-2017,2017,VC,Versant Ventures,Jasneu X,0.255,VC 2017,0,0
+D0465,03-11-2017,2017,VC,Bain Capital Life Sciences,Jaspro RX,0.124,VC 2017,0,0
+D0413,20-11-2017,2017,Series_C,GV (Google Ventures),Biogen X,0.284,Series_C 2017,0,0
+D0462,27-11-2017,2017,Series_B,Bain Capital Life Sciences,Zeoyot RX,0.186,Series_B 2017,0,0
+D0459,01-12-2017,2017,Series_C,OrbiMed,Veczeo Therapeutics,0.199,Series_C 2017,0,0
+D0456,02-12-2017,2017,VC,OrbiMed,Aerzeo IO,0.21,VC 2017,0,0
+D0432,05-12-2017,2017,IPO,Public markets,Zeoaer ON,0.327,IPO 2017,0,0
+D0458,08-12-2017,2017,Series_B,Sofinnova Investments,Celrep AB,0.049,Series_B 2017,0,0
+D0444,10-12-2017,2017,IPO,Public markets,Immaer BIO,0.196,IPO 2017,0,0
+D0480,18-12-2017,2017,Series_B,OrbiMed,Unigen OS,0.097,Series_B 2017,0,0
+D0457,19-12-2017,2017,VC,OrbiMed,Onclum GX,0.039,VC 2017,0,0
+D0463,22-12-2017,2017,VC,Sofinnova Investments,Hapjas Tx,0.198,VC 2017,0,0
+D0564,01-01-2018,2018,Crossover,OrbiMed,Xenvec X,0.025,Crossover 2018,0,0
+D0517,06-01-2018,2018,VC,GV (Google Ventures),Genneu ON,0.479,VC 2018,0,0
+D0508,10-01-2018,2018,M&A,J&J,Denden RX,1.805,M&A 2018,0,0
+D0551,14-01-2018,2018,Series_B,Bain Capital Life Sciences,Biokym X,0.67,Series_B 2018,0,0
+D0522,16-01-2018,2018,VC,Polaris Partners,Xensyn ON,0.41,VC 2018,0,0
+D0006,22-01-2018,2018,M&A,Celgene,Juno Therapeutics,9,CAR-T acquisition,0,1
+D0483,22-01-2018,2018,VC,Bain Capital Life Sciences,Genrep AB,0.389,VC 2018,0,0
+D0485,23-01-2018,2018,VC,Polaris Partners,Jascel AB,0.068,VC 2018,0,0
+D0504,24-01-2018,2018,Series_B,OrbiMed,Immrep X,0.067,Series_B 2018,0,0
+D0015,25-01-2018,2018,IPO,Public markets,ARMO BioSciences,0.13,Cancer immunotherapy IPO,0,1
+D0526,26-01-2018,2018,Series_B,Bain Capital Life Sciences,Synonc AB,0.632,Series_B 2018,0,0
+D0553,02-02-2018,2018,M&A,Sanofi,Epiden ON,1.207,M&A 2018,0,0
+D0554,02-02-2018,2018,M&A,Novartis,Tavtav Tx,0.757,M&A 2018,0,0
+D0565,03-02-2018,2018,VC,Polaris Partners,Projas ON,0.443,VC 2018,0,0
+D0556,07-02-2018,2018,Series_B,RA Capital,Celaer AB,0.332,Series_B 2018,0,0
+D0016,08-02-2018,2018,IPO,Public markets,Solid Biosciences,0.15,DMD gene therapy,0,1
+D0505,18-02-2018,2018,VC,Bain Capital Life Sciences,Zeoaer ON,0.135,VC 2018,0,0
+D0484,19-02-2018,2018,VC,Atlas Venture,Genonc Therapeutics,0.299,VC 2018,0,0
+D0488,21-02-2018,2018,Crossover,ARCH Venture Partners,Modgen Therapeutics,0.068,Crossover 2018,0,0
+D0490,02-03-2018,2018,VC,RA Capital,Vecrep RX,0.143,VC 2018,0,0
+D0558,10-03-2018,2018,VC,Third Rock Ventures,Hapbio Tx,0.249,VC 2018,0,0
+D0520,12-03-2018,2018,VC,Third Rock Ventures,Modbio AB,0.064,VC 2018,0,0
+D0538,21-03-2018,2018,IPO,Public markets,Repaer ON,0.981,IPO 2018,0,0
+D0540,03-04-2018,2018,Series_C,ARCH Venture Partners,Bioonc Therapeutics,0.039,Series_C 2018,0,0
+D0503,03-04-2018,2018,VC,a16z Bio,Repjas RX,0.054,VC 2018,0,0
+D0519,03-04-2018,2018,Series_C,Sofinnova Investments,Quoepi X,0.026,Series_C 2018,0,0
+D0494,03-04-2018,2018,Series_C,Atlas Venture,Immimm BIO,0.254,Series_C 2018,0,0
+D0502,04-04-2018,2018,IPO,Public markets,Repuni AB,0.303,IPO 2018,0,0
+D0496,06-04-2018,2018,M&A,Eli Lilly,Genimm ON,0.973,M&A 2018,0,0
+D0501,14-04-2018,2018,VC,a16z Bio,Genlum ON,0.101,VC 2018,0,0
+D0562,01-05-2018,2018,VC,Atlas Venture,Unixen Therapeutics,0.1,VC 2018,0,0
+D0543,04-05-2018,2018,VC,Third Rock Ventures,Repden X,0.047,VC 2018,0,0
+D0537,11-05-2018,2018,VC,RA Capital,Aeruni Therapeutics,0.12,VC 2018,0,0
+D0514,19-05-2018,2018,IPO,Public markets,Epibio Tx,1.268,IPO 2018,0,0
+D0548,19-05-2018,2018,Series_B,Flagship Pioneering,Biokym RX,0.491,Series_B 2018,0,0
+D0500,19-05-2018,2018,Series_C,OrbiMed,Genuni AB,0.205,Series_C 2018,0,0
+D0552,20-05-2018,2018,Series_B,F-Prime Capital,Zeopro ON,0.032,Series_B 2018,0,0
+D0535,23-05-2018,2018,IPO,Public markets,Zeoyot X,0.05,IPO 2018,0,0
+D0510,26-05-2018,2018,VC,a16z Bio,Epibio Therapeutics,0.08,VC 2018,0,0
+D0544,27-05-2018,2018,Series_B,F-Prime Capital,Modsyn BIO,0.093,Series_B 2018,0,0
+D0547,21-06-2018,2018,VC,Polaris Partners,Gengen Therapeutics,0.082,VC 2018,0,0
+D0561,25-06-2018,2018,VC,OrbiMed,Repneu IO,0.11,VC 2018,0,0
+D0495,01-07-2018,2018,Crossover,a16z Bio,Tavepi X,0.034,Crossover 2018,0,0
+D0527,04-07-2018,2018,VC,Atlas Venture,Modgen GX,0.055,VC 2018,0,0
+D0539,04-07-2018,2018,M&A,Sanofi,Unikym Tx,0.087,M&A 2018,0,0
+D0507,11-07-2018,2018,Crossover,Versant Ventures,Modbio AB,0.024,Crossover 2018,0,0
+D0530,14-07-2018,2018,VC,Flagship Pioneering,Tavquo Tx,0.482,VC 2018,0,0
+D0546,15-07-2018,2018,VC,OrbiMed,Zeoquo GX,0.171,VC 2018,0,0
+D0528,17-07-2018,2018,Series_B,OrbiMed,Immneu GX,0.032,Series_B 2018,0,0
+D0532,18-07-2018,2018,Series_B,RA Capital,Xenlum ON,0.065,Series_B 2018,0,0
+D0536,19-07-2018,2018,Series_C,Sofinnova Investments,Modhap BIO,0.124,Series_C 2018,0,0
+D0489,23-07-2018,2018,VC,GV (Google Ventures),Prosyn ON,0.26,VC 2018,0,0
+D0560,27-07-2018,2018,VC,Sofinnova Investments,Jasxen OS,0.047,VC 2018,0,0
+D0493,02-08-2018,2018,Series_C,RA Capital,Xencel BIO,0.068,Series_C 2018,0,0
+D0557,11-08-2018,2018,IPO,Public markets,Aerpro Therapeutics,0.253,IPO 2018,0,0
+D0563,12-08-2018,2018,Series_B,Third Rock Ventures,Lumimm AB,0.186,Series_B 2018,0,0
+D0566,17-08-2018,2018,Series_B,RA Capital,Biomod Therapeutics,0.097,Series_B 2018,0,0
+D0525,18-08-2018,2018,Series_C,F-Prime Capital,Denhap RX,0.229,Series_C 2018,0,0
+D0486,18-08-2018,2018,M&A,Sanofi,Yotjas OS,0.251,M&A 2018,0,0
+D0492,19-08-2018,2018,Crossover,Bain Capital Life Sciences,Genzeo BIO,0.085,Crossover 2018,0,0
+D0559,20-08-2018,2018,IPO,Public markets,Genjas AB,0.398,IPO 2018,0,0
+D0521,20-08-2018,2018,VC,F-Prime Capital,Zeouni BIO,0.072,VC 2018,0,0
+D0531,22-08-2018,2018,M&A,GSK,Tavgen AB,4.544,M&A 2018,0,0
+D0509,24-08-2018,2018,Series_C,Flagship Pioneering,Neuyot BIO,0.342,Series_C 2018,0,0
+D0542,27-08-2018,2018,Crossover,Polaris Partners,Quoepi OS,0.166,Crossover 2018,0,0
+D0523,04-09-2018,2018,VC,Third Rock Ventures,Oncyot X,0.061,VC 2018,0,0
+D0515,06-09-2018,2018,VC,Sofinnova Investments,Oncjas AB,0.233,VC 2018,0,0
+D0491,10-09-2018,2018,VC,Bain Capital Life Sciences,Immyot OS,0.608,VC 2018,0,0
+D0513,11-09-2018,2018,IPO,Public markets,Provec Tx,0.241,IPO 2018,0,0
+D0524,13-09-2018,2018,VC,RA Capital,Jasden GX,0.212,VC 2018,0,0
+D0487,15-09-2018,2018,Series_B,Polaris Partners,Tavgen Therapeutics,1.121,Series_B 2018,0,0
+D0498,17-09-2018,2018,Crossover,Polaris Partners,Lumsyn GX,0.24,Crossover 2018,0,0
+D0545,19-09-2018,2018,IPO,Public markets,Immbio AB,0.317,IPO 2018,0,0
+D0555,26-09-2018,2018,VC,OrbiMed,Denneu AB,0.103,VC 2018,0,0
+D0499,24-10-2018,2018,M&A,GSK,Synpro IO,0.409,M&A 2018,0,0
+D0506,01-11-2018,2018,Series_C,a16z Bio,Kymonc X,0.265,Series_C 2018,0,0
+D0512,06-11-2018,2018,M&A,Amgen,Xenden AB,7.994,M&A 2018,0,0
+D0497,17-11-2018,2018,Series_B,F-Prime Capital,Quozeo GX,0.066,Series_B 2018,0,0
+D0534,18-11-2018,2018,IPO,Public markets,Epipro X,1.551,IPO 2018,0,0
+D0549,23-11-2018,2018,M&A,J&J,Yotzeo OS,0.033,M&A 2018,0,0
+D0511,26-11-2018,2018,Series_B,Third Rock Ventures,Yotmod X,0.15,Series_B 2018,0,0
+D0567,01-12-2018,2018,VC,a16z Bio,Veconc AB,0.126,VC 2018,0,0
+D0516,06-12-2018,2018,Crossover,Sofinnova Investments,Genzeo X,0.623,Crossover 2018,0,0
+D0541,08-12-2018,2018,Series_B,Bain Capital Life Sciences,Unibio Tx,0.072,Series_B 2018,0,0
+D0529,11-12-2018,2018,M&A,AstraZeneca,Repsyn Therapeutics,1.653,M&A 2018,0,0
+D0518,11-12-2018,2018,IPO,Public markets,Biouni RX,0.668,IPO 2018,0,0
+D0533,11-12-2018,2018,VC,Sofinnova Investments,Yotden Therapeutics,0.225,VC 2018,0,0
+D0550,23-12-2018,2018,Series_B,GV (Google Ventures),Synzeo IO,0.263,Series_B 2018,0,0
+D0594,02-01-2019,2019,M&A,Pfizer,Yotuni IO,2.745,M&A 2019,0,0
+D0007,03-01-2019,2019,M&A,BMS,Celgene,74,Largest pharma M&A 2019,1,1
+D0600,05-01-2019,2019,VC,GV (Google Ventures),Zeoneu AB,0.226,VC 2019,0,0
+D0626,08-01-2019,2019,M&A,J&J,Denrep BIO,0.254,M&A 2019,0,0
+D0604,09-01-2019,2019,Series_C,F-Prime Capital,Celuni IO,0.116,Series_C 2019,0,0
+D0602,17-01-2019,2019,Series_B,Third Rock Ventures,Modden X,0.187,Series_B 2019,0,0
+D0593,19-01-2019,2019,M&A,Sanofi,Veccel BIO,0.736,M&A 2019,0,0
+D0574,01-02-2019,2019,Series_B,Polaris Partners,Unirep Therapeutics,0.055,Series_B 2019,0,0
+D0616,07-02-2019,2019,IPO,Public markets,Lumgen IO,0.151,IPO 2019,0,0
+D0623,07-02-2019,2019,M&A,AstraZeneca,Celuni Tx,0.843,M&A 2019,0,0
+D0617,19-02-2019,2019,M&A,AbbVie,Repyot OS,0.186,M&A 2019,0,0
+D0621,19-03-2019,2019,Series_B,RA Capital,Modsyn GX,0.448,Series_B 2019,0,0
+D0585,27-03-2019,2019,Series_C,RA Capital,Zeoonc GX,0.021,Series_C 2019,0,0
+D0614,01-04-2019,2019,VC,OrbiMed,Aerquo ON,0.095,VC 2019,0,0
+D0635,18-04-2019,2019,IPO,Public markets,Proyot Therapeutics,0.434,IPO 2019,0,0
+D0613,01-05-2019,2019,Series_B,GV (Google Ventures),Oncgen ON,0.1,Series_B 2019,0,0
+D0624,02-05-2019,2019,VC,Sofinnova Investments,Denpro GX,0.096,VC 2019,0,0
+D0611,08-05-2019,2019,M&A,Eli Lilly,Immpro ON,1.47,M&A 2019,0,0
+D0578,08-05-2019,2019,Series_B,Versant Ventures,Epiyot IO,0.017,Series_B 2019,0,0
+D0584,10-05-2019,2019,Series_B,Atlas Venture,Oncvec OS,0.268,Series_B 2019,0,0
+D0596,10-05-2019,2019,Crossover,ARCH Venture Partners,Kymxen AB,0.021,Crossover 2019,0,0
+D0625,18-05-2019,2019,IPO,Public markets,Provec Therapeutics,0.212,IPO 2019,0,0
+D0569,02-06-2019,2019,VC,Atlas Venture,Neutav ON,0.201,VC 2019,0,0
+D0592,03-06-2019,2019,Series_C,Third Rock Ventures,Genuni Therapeutics,0.102,Series_C 2019,0,0
+D0575,05-06-2019,2019,Series_B,OrbiMed,Yotzeo IO,0.234,Series_B 2019,0,0
+D0570,06-06-2019,2019,Series_B,ARCH Venture Partners,Kymyot IO,0.084,Series_B 2019,0,0
+D0586,11-06-2019,2019,IPO,Public markets,Neuonc BIO,0.27,IPO 2019,0,0
+D0598,16-06-2019,2019,M&A,Roche,Modzeo OS,2.877,M&A 2019,0,0
+D0008,17-06-2019,2019,M&A,AbbVie,Allergan,63,Botox + Humira,1,1
+D0576,11-07-2019,2019,VC,Flagship Pioneering,Genkym Tx,0.092,VC 2019,0,0
+D0607,11-07-2019,2019,VC,OrbiMed,Kymvec IO,0.376,VC 2019,0,0
+D0568,17-07-2019,2019,VC,Sofinnova Investments,Denonc ON,0.182,VC 2019,0,0
+D0590,17-07-2019,2019,VC,ARCH Venture Partners,Yotimm BIO,0.115,VC 2019,0,0
+D0571,18-07-2019,2019,IPO,Public markets,Quorep IO,0.89,IPO 2019,0,0
+D0606,22-07-2019,2019,Series_B,Sofinnova Investments,Vecgen IO,0.08,Series_B 2019,0,0
+D0609,02-08-2019,2019,Crossover,ARCH Venture Partners,Hapaer OS,0.087,Crossover 2019,0,0
+D0577,06-08-2019,2019,M&A,Pfizer,Celaer ON,3.069,M&A 2019,0,0
+D0628,06-08-2019,2019,Series_B,F-Prime Capital,Kymlum X,0.306,Series_B 2019,0,0
+D0622,07-08-2019,2019,M&A,Sanofi,Bioxen BIO,0.216,M&A 2019,0,0
+D0581,09-08-2019,2019,Series_B,GV (Google Ventures),Zeosyn AB,0.424,Series_B 2019,0,0
+D0637,11-08-2019,2019,M&A,Amgen,Yotonc Therapeutics,0.454,M&A 2019,0,0
+D0587,12-08-2019,2019,VC,ARCH Venture Partners,Moduni ON,0.392,VC 2019,0,0
+D0572,04-09-2019,2019,Crossover,Sofinnova Investments,Proquo IO,0.302,Crossover 2019,0,0
+D0636,09-09-2019,2019,Series_B,Bain Capital Life Sciences,Tavsyn RX,0.064,Series_B 2019,0,0
+D0619,14-09-2019,2019,VC,a16z Bio,Kymneu OS,0.107,VC 2019,0,0
+D0589,15-09-2019,2019,Series_B,Polaris Partners,Vecgen Tx,0.186,Series_B 2019,0,0
+D0608,18-09-2019,2019,VC,OrbiMed,Repcel Tx,0.129,VC 2019,0,0
+D0612,02-10-2019,2019,IPO,Public markets,Repmod RX,0.239,IPO 2019,0,0
+D0580,10-10-2019,2019,VC,F-Prime Capital,Denden X,0.226,VC 2019,0,0
+D0633,11-10-2019,2019,VC,Versant Ventures,Lumquo Therapeutics,0.222,VC 2019,0,0
+D0583,14-10-2019,2019,Series_B,F-Prime Capital,Modaer BIO,0.556,Series_B 2019,0,0
+D0591,15-10-2019,2019,M&A,Merck,Genneu X,15.544,M&A 2019,1,0
+D0627,16-10-2019,2019,VC,F-Prime Capital,Lumpro ON,0.01,VC 2019,0,0
+D0615,16-10-2019,2019,IPO,Public markets,Prouni AB,0.871,IPO 2019,0,0
+D0573,20-10-2019,2019,VC,OrbiMed,Celgen ON,0.195,VC 2019,0,0
+D0618,23-10-2019,2019,Crossover,GV (Google Ventures),Tavhap Tx,0.192,Crossover 2019,0,0
+D0579,03-11-2019,2019,Series_B,GV (Google Ventures),Xengen Tx,0.319,Series_B 2019,0,0
+D0595,04-11-2019,2019,VC,Atlas Venture,Quoxen BIO,0.247,VC 2019,0,0
+D0603,12-11-2019,2019,VC,OrbiMed,Genlum AB,0.264,VC 2019,0,0
+D0599,14-11-2019,2019,VC,ARCH Venture Partners,Tavhap RX,0.205,VC 2019,0,0
+D0620,17-11-2019,2019,IPO,Public markets,Synzeo OS,0.194,IPO 2019,0,0
+D0610,17-11-2019,2019,VC,OrbiMed,Proquo Therapeutics,0.654,VC 2019,0,0
+D0629,03-12-2019,2019,Series_B,Sofinnova Investments,Lumjas AB,0.019,Series_B 2019,0,0
+D0597,05-12-2019,2019,VC,RA Capital,Xengen AB,0.054,VC 2019,0,0
+D0634,06-12-2019,2019,Series_C,Bain Capital Life Sciences,Celpro GX,0.349,Series_C 2019,0,0
+D0632,08-12-2019,2019,M&A,AstraZeneca,Genden RX,50,M&A 2019,1,0
+D0582,08-12-2019,2019,VC,Versant Ventures,Genepi Therapeutics,0.086,VC 2019,0,0
+D0588,13-12-2019,2019,Series_B,Atlas Venture,Zeoden OS,0.223,Series_B 2019,0,0
+D0630,13-12-2019,2019,M&A,AstraZeneca,Denzeo IO,10.244,M&A 2019,1,0
+D0631,13-12-2019,2019,M&A,Sanofi,Denvec GX,42.875,M&A 2019,1,0
+D0601,16-12-2019,2019,VC,Third Rock Ventures,Vecxen GX,0.17,VC 2019,0,0
+D0605,22-12-2019,2019,Series_B,a16z Bio,Denuni Tx,1.609,Series_B 2019,0,0
+D0679,07-01-2020,2020,VC,OrbiMed,Uniuni Therapeutics,0.883,VC 2020,0,0
+D0698,07-01-2020,2020,Crossover,GV (Google Ventures),Xenvec ON,0.032,Crossover 2020,0,0
+D0654,10-01-2020,2020,Series_B,Versant Ventures,Dentav RX,0.18,Series_B 2020,0,0
+D0703,10-01-2020,2020,Crossover,Flagship Pioneering,Neuaer IO,0.702,Crossover 2020,0,0
+D0726,16-01-2020,2020,M&A,AbbVie,Synzeo IO,9.799,M&A 2020,0,0
+D0692,17-01-2020,2020,Series_B,F-Prime Capital,Tavyot IO,0.189,Series_B 2020,0,0
+D0663,17-01-2020,2020,Series_C,Third Rock Ventures,Genmod IO,0.24,Series_C 2020,0,0
+D0691,18-01-2020,2020,VC,Sofinnova Investments,Denuni Therapeutics,0.067,VC 2020,0,0
+D0688,19-01-2020,2020,VC,Flagship Pioneering,Yotvec BIO,0.145,VC 2020,0,0
+D0722,21-01-2020,2020,Series_B,GV (Google Ventures),Tavgen ON,0.461,Series_B 2020,0,0
+D0672,21-01-2020,2020,Series_B,a16z Bio,Hapvec ON,0.06,Series_B 2020,0,0
+D0718,22-01-2020,2020,Series_C,GV (Google Ventures),Biojas OS,0.412,Series_C 2020,0,0
+D0685,25-01-2020,2020,Series_C,Flagship Pioneering,Epigen ON,0.344,Series_C 2020,0,0
+D0690,26-01-2020,2020,M&A,Gilead,Unitav IO,0.301,M&A 2020,0,0
+D0708,04-02-2020,2020,Series_B,Sofinnova Investments,Hapneu GX,0.663,Series_B 2020,0,0
+D0642,04-02-2020,2020,Series_B,Versant Ventures,Denrep Therapeutics,0.235,Series_B 2020,0,0
+D0638,07-02-2020,2020,M&A,Gilead,Oncepi GX,0.474,M&A 2020,0,0
+D0667,08-02-2020,2020,VC,F-Prime Capital,Immjas RX,0.35,VC 2020,0,0
+D0727,09-02-2020,2020,M&A,Merck,Zeohap Tx,0.987,M&A 2020,0,0
+D0676,15-02-2020,2020,M&A,Amgen,Tavhap GX,0.36,M&A 2020,0,0
+D0695,16-02-2020,2020,Series_B,Sofinnova Investments,Oncgen GX,0.226,Series_B 2020,0,0
+D0716,23-02-2020,2020,Series_C,Atlas Venture,Bioepi Tx,0.178,Series_C 2020,0,0
+D0650,25-02-2020,2020,M&A,Amgen,Neuquo OS,4.837,M&A 2020,0,0
+D0668,15-03-2020,2020,Series_B,a16z Bio,Synzeo ON,0.172,Series_B 2020,0,0
+D0644,19-03-2020,2020,IPO,Public markets,Tavaer AB,0.49,IPO 2020,0,0
+D0719,20-03-2020,2020,Series_C,ARCH Venture Partners,Proquo AB,0.586,Series_C 2020,0,0
+D0665,01-04-2020,2020,VC,Third Rock Ventures,Tavpro AB,0.332,VC 2020,0,0
+D0640,05-04-2020,2020,IPO,Public markets,Neusyn Tx,1.998,IPO 2020,0,0
+D0666,13-04-2020,2020,VC,RA Capital,Aerxen Therapeutics,0.054,VC 2020,0,0
+D0704,14-04-2020,2020,M&A,GSK,Yottav BIO,0.279,M&A 2020,0,0
+D0700,17-04-2020,2020,VC,RA Capital,Kymyot RX,0.199,VC 2020,0,0
+D0681,21-04-2020,2020,VC,GV (Google Ventures),Repsyn AB,0.089,VC 2020,0,0
+D0724,22-04-2020,2020,VC,OrbiMed,Modsyn Therapeutics,0.254,VC 2020,0,0
+D0021,23-04-2020,2020,VC,VC syndicate,Insitro,0.14,AI-driven drug discovery,0,1
+D0662,24-04-2020,2020,IPO,Public markets,Genonc IO,0.318,IPO 2020,0,0
+D0684,03-05-2020,2020,Crossover,Bain Capital Life Sciences,Aerjas BIO,0.105,Crossover 2020,0,0
+D0696,10-05-2020,2020,Series_B,a16z Bio,Denrep ON,0.047,Series_B 2020,0,0
+D0659,11-05-2020,2020,Series_B,Flagship Pioneering,Biobio RX,0.262,Series_B 2020,0,0
+D0720,13-05-2020,2020,M&A,Gilead,Aeryot IO,15.054,M&A 2020,1,0
+D0715,16-05-2020,2020,Series_C,ARCH Venture Partners,Vecyot Tx,0.092,Series_C 2020,0,0
+D0651,16-05-2020,2020,Series_C,Bain Capital Life Sciences,Bioonc AB,1.247,Series_C 2020,0,0
+D0674,20-05-2020,2020,Series_B,Versant Ventures,Zeorep OS,0.944,Series_B 2020,0,0
+D0701,20-05-2020,2020,Crossover,Polaris Partners,Biouni Tx,0.174,Crossover 2020,0,0
+D0641,21-05-2020,2020,VC,GV (Google Ventures),Yotcel Therapeutics,0.272,VC 2020,0,0
+D0694,22-05-2020,2020,VC,a16z Bio,Xenaer OS,0.118,VC 2020,0,0
+D0699,26-05-2020,2020,M&A,Pfizer,Tavrep ON,3.504,M&A 2020,0,0
+D0678,27-05-2020,2020,Series_C,Third Rock Ventures,Xenimm AB,0.465,Series_C 2020,0,0
+D0711,13-06-2020,2020,M&A,AbbVie,Quobio GX,12.801,M&A 2020,1,0
+D0671,18-06-2020,2020,IPO,Public markets,Synmod IO,1.634,IPO 2020,0,0
+D0682,24-06-2020,2020,M&A,AstraZeneca,Kymrep AB,0.018,M&A 2020,0,0
+D0673,01-07-2020,2020,VC,RA Capital,Rephap Tx,0.176,VC 2020,0,0
+D0683,01-07-2020,2020,M&A,GSK,Zeohap Tx,1.944,M&A 2020,0,0
+D0702,07-07-2020,2020,VC,Sofinnova Investments,Hapimm RX,0.191,VC 2020,0,0
+D0639,09-07-2020,2020,Series_B,OrbiMed,Genmod GX,0.07,Series_B 2020,0,0
+D0646,14-07-2020,2020,VC,OrbiMed,Gengen IO,0.26,VC 2020,0,0
+D0707,16-07-2020,2020,VC,Third Rock Ventures,Densyn Therapeutics,0.213,VC 2020,0,0
+D0680,23-07-2020,2020,M&A,Pfizer,Densyn IO,3.388,M&A 2020,0,0
+D0686,02-08-2020,2020,M&A,Roche,Celzeo IO,34.299,M&A 2020,1,0
+D0645,03-08-2020,2020,VC,Sofinnova Investments,Quoneu IO,0.085,VC 2020,0,0
+D0689,06-08-2020,2020,M&A,Merck,Denepi ON,7.304,M&A 2020,0,0
+D0655,12-08-2020,2020,Series_B,Atlas Venture,Kymuni GX,0.142,Series_B 2020,0,0
+D0687,16-08-2020,2020,Series_B,F-Prime Capital,Immrep RX,0.068,Series_B 2020,0,0
+D0647,17-08-2020,2020,IPO,Public markets,Oncuni RX,0.699,IPO 2020,0,0
+D0653,17-08-2020,2020,Crossover,Atlas Venture,Jasxen Therapeutics,0.06,Crossover 2020,0,0
+D0643,26-08-2020,2020,Crossover,OrbiMed,Modbio Tx,0.16,Crossover 2020,0,0
+D0717,27-08-2020,2020,Series_C,Flagship Pioneering,Celneu ON,0.374,Series_C 2020,0,0
+D0723,16-09-2020,2020,Series_B,ARCH Venture Partners,Neujas OS,0.843,Series_B 2020,0,0
+D0660,22-09-2020,2020,VC,F-Prime Capital,Tavneu X,0.024,VC 2020,0,0
+D0009,27-09-2020,2020,M&A,Gilead,Immunomedics,21,Trodelvy ADC,1,1
+D0705,02-10-2020,2020,Series_B,Flagship Pioneering,Prolum RX,0.005,Series_B 2020,0,0
+D0697,20-10-2020,2020,IPO,Public markets,Quoden GX,0.245,IPO 2020,0,0
+D0661,23-10-2020,2020,Series_B,Third Rock Ventures,Celquo ON,0.155,Series_B 2020,0,0
+D0677,23-10-2020,2020,VC,a16z Bio,Proneu OS,0.034,VC 2020,0,0
+D0712,24-10-2020,2020,Series_B,Atlas Venture,Epibio RX,0.196,Series_B 2020,0,0
+D0657,12-11-2020,2020,IPO,Public markets,Immmod RX,0.232,IPO 2020,0,0
+D0656,14-11-2020,2020,M&A,Sanofi,Quojas IO,3.46,M&A 2020,0,0
+D0709,16-11-2020,2020,VC,Bain Capital Life Sciences,Aervec BIO,0.231,VC 2020,0,0
+D0648,16-11-2020,2020,M&A,Roche,Lumden IO,11.775,M&A 2020,1,0
+D0017,19-11-2020,2020,IPO,Public markets,Recursion Pharmaceuticals,0.44,AI drug discovery,0,1
+D0725,25-11-2020,2020,Series_B,a16z Bio,Biovec Tx,0.255,Series_B 2020,0,0
+D0670,27-11-2020,2020,VC,Atlas Venture,Zeoxen Therapeutics,0.401,VC 2020,0,0
+D0675,04-12-2020,2020,VC,F-Prime Capital,Celhap AB,0.089,VC 2020,0,0
+D0721,05-12-2020,2020,Series_B,Versant Ventures,Denlum X,0.123,Series_B 2020,0,0
+D0714,07-12-2020,2020,Series_C,Atlas Venture,Zeorep IO,0.583,Series_C 2020,0,0
+D0706,09-12-2020,2020,VC,Sofinnova Investments,Denhap Tx,0.793,VC 2020,0,0
+D0010,12-12-2020,2020,M&A,AstraZeneca,Alexion,39,Rare disease entry,1,1
+D0664,13-12-2020,2020,VC,Third Rock Ventures,Genbio Therapeutics,0.106,VC 2020,0,0
+D0649,13-12-2020,2020,IPO,Public markets,Vecsyn Tx,0.111,IPO 2020,0,0
+D0713,17-12-2020,2020,VC,F-Prime Capital,Genpro RX,0.2,VC 2020,0,0
+D0693,18-12-2020,2020,VC,GV (Google Ventures),Aerkym X,0.02,VC 2020,0,0
+D0652,21-12-2020,2020,Series_C,Third Rock Ventures,Vecxen IO,0.272,Series_C 2020,0,0
+D0658,22-12-2020,2020,VC,Polaris Partners,Celtav ON,0.13,VC 2020,0,0
+D0669,25-12-2020,2020,VC,Polaris Partners,Celneu GX,0.151,VC 2020,0,0
+D0710,26-12-2020,2020,M&A,Pfizer,Oncaer Tx,0.036,M&A 2020,0,0
+D0830,02-01-2021,2021,IPO,Public markets,Uniden OS,0.213,IPO 2021,0,0
+D0801,06-01-2021,2021,VC,Third Rock Ventures,Celxen GX,0.083,VC 2021,0,0
+D0789,07-01-2021,2021,IPO,Public markets,Biocel Therapeutics,0.196,IPO 2021,0,0
+D0733,09-01-2021,2021,Series_B,Polaris Partners,Kymgen IO,0.096,Series_B 2021,0,0
+D0810,14-01-2021,2021,Series_B,RA Capital,Denrep RX,0.131,Series_B 2021,0,0
+D0770,14-01-2021,2021,VC,a16z Bio,Proepi OS,0.166,VC 2021,0,0
+D0848,15-01-2021,2021,VC,Atlas Venture,Quoneu OS,0.073,VC 2021,0,0
+D0785,17-01-2021,2021,M&A,AbbVie,Kymzeo X,50,M&A 2021,1,0
+D0853,17-01-2021,2021,VC,F-Prime Capital,Jaspro RX,0.218,VC 2021,0,0
+D0743,22-01-2021,2021,Series_B,ARCH Venture Partners,Modmod IO,0.119,Series_B 2021,0,0
+D0817,24-01-2021,2021,Series_B,Atlas Venture,Neuaer Tx,0.191,Series_B 2021,0,0
+D0018,04-02-2021,2021,IPO,Public markets,Sana Biotechnology,0.59,Cell therapy IPO,0,1
+D0748,06-02-2021,2021,VC,a16z Bio,Lumimm AB,0.389,VC 2021,0,0
+D0820,06-02-2021,2021,Series_B,RA Capital,Kymbio OS,0.517,Series_B 2021,0,0
+D0730,09-02-2021,2021,Series_C,Flagship Pioneering,Kymbio AB,0.105,Series_C 2021,0,0
+D0825,14-02-2021,2021,Series_C,Sofinnova Investments,Lumepi Tx,0.104,Series_C 2021,0,0
+D0838,16-02-2021,2021,IPO,Public markets,Xenneu Therapeutics,0.336,IPO 2021,0,0
+D0784,17-02-2021,2021,M&A,BMS,Quouni BIO,0.983,M&A 2021,0,0
+D0775,01-03-2021,2021,M&A,Sanofi,Episyn ON,3.207,M&A 2021,0,0
+D0805,01-03-2021,2021,IPO,Public markets,Zeolum ON,0.442,IPO 2021,0,0
+D0821,02-03-2021,2021,VC,Versant Ventures,Denrep BIO,0.369,VC 2021,0,0
+D0813,04-03-2021,2021,VC,a16z Bio,Prorep X,0.408,VC 2021,0,0
+D0760,04-03-2021,2021,M&A,Amgen,Prouni GX,50,M&A 2021,1,0
+D0740,06-03-2021,2021,IPO,Public markets,Repmod AB,1.886,IPO 2021,0,0
+D0747,10-03-2021,2021,M&A,BMS,Epionc Therapeutics,1.784,M&A 2021,0,0
+D0742,16-03-2021,2021,Series_B,ARCH Venture Partners,Aergen OS,0.264,Series_B 2021,0,0
+D0758,16-03-2021,2021,VC,ARCH Venture Partners,Quomod IO,0.117,VC 2021,0,0
+D0761,17-03-2021,2021,Series_C,Flagship Pioneering,Aerkym OS,0.353,Series_C 2021,0,0
+D0773,22-03-2021,2021,VC,ARCH Venture Partners,Oncgen RX,0.217,VC 2021,0,0
+D0815,22-03-2021,2021,M&A,Sanofi,Epilum Therapeutics,0.567,M&A 2021,0,0
+D0796,27-03-2021,2021,Series_B,ARCH Venture Partners,Repepi GX,0.637,Series_B 2021,0,0
+D0851,27-03-2021,2021,VC,F-Prime Capital,Synvec GX,0.197,VC 2021,0,0
+D0816,27-03-2021,2021,Series_B,RA Capital,Denjas Therapeutics,0.344,Series_B 2021,0,0
+D0737,02-04-2021,2021,VC,a16z Bio,Lumcel X,0.012,VC 2021,0,0
+D0734,02-04-2021,2021,VC,GV (Google Ventures),Aeronc IO,0.217,VC 2021,0,0
+D0822,06-04-2021,2021,VC,Bain Capital Life Sciences,Modhap GX,0.518,VC 2021,0,0
+D0749,08-04-2021,2021,VC,F-Prime Capital,Kymaer GX,0.1,VC 2021,0,0
+D0728,17-04-2021,2021,Series_C,Flagship Pioneering,Neugen Therapeutics,0.056,Series_C 2021,0,0
+D0831,23-04-2021,2021,Series_B,Sofinnova Investments,Modgen Therapeutics,0.048,Series_B 2021,0,0
+D0729,01-05-2021,2021,Series_C,Sofinnova Investments,Genquo GX,0.03,Series_C 2021,0,0
+D0739,02-05-2021,2021,M&A,Eli Lilly,Aerzeo BIO,50,M&A 2021,1,0
+D0792,03-05-2021,2021,VC,Versant Ventures,Neuaer AB,0.092,VC 2021,0,0
+D0798,06-05-2021,2021,VC,Third Rock Ventures,Epitav GX,0.067,VC 2021,0,0
+D0787,07-05-2021,2021,M&A,Novartis,Tavgen X,8.949,M&A 2021,0,0
+D0779,08-05-2021,2021,M&A,J&J,Immcel X,14.046,M&A 2021,1,0
+D0812,08-05-2021,2021,Series_C,Third Rock Ventures,Tavyot X,0.329,Series_C 2021,0,0
+D0811,11-05-2021,2021,M&A,Pfizer,Kympro OS,1.472,M&A 2021,0,0
+D0777,12-05-2021,2021,VC,Bain Capital Life Sciences,Biosyn OS,0.132,VC 2021,0,0
+D0800,13-05-2021,2021,VC,ARCH Venture Partners,Jasxen RX,0.127,VC 2021,0,0
+D0843,18-05-2021,2021,VC,Versant Ventures,Vecxen BIO,0.27,VC 2021,0,0
+D0823,18-05-2021,2021,M&A,GSK,Kymzeo OS,11.415,M&A 2021,1,0
+D0767,19-05-2021,2021,M&A,AstraZeneca,Oncmod AB,16.912,M&A 2021,1,0
+D0847,20-05-2021,2021,Series_B,Flagship Pioneering,Univec IO,0.475,Series_B 2021,0,0
+D0793,23-05-2021,2021,IPO,Public markets,Unipro IO,0.906,IPO 2021,0,0
+D0756,23-05-2021,2021,VC,Flagship Pioneering,Yotimm RX,0.113,VC 2021,0,0
+D0842,26-05-2021,2021,IPO,Public markets,Modimm ON,0.329,IPO 2021,0,0
+D0803,04-06-2021,2021,M&A,Roche,Tavpro X,0.765,M&A 2021,0,0
+D0759,04-06-2021,2021,VC,Third Rock Ventures,Onckym GX,0.187,VC 2021,0,0
+D0795,07-06-2021,2021,Series_B,OrbiMed,Epiepi GX,0.123,Series_B 2021,0,0
+D0788,14-06-2021,2021,VC,Atlas Venture,Tavhap ON,0.056,VC 2021,0,0
+D0844,15-06-2021,2021,VC,Third Rock Ventures,Celhap OS,0.265,VC 2021,0,0
+D0757,17-06-2021,2021,VC,Atlas Venture,Kymxen OS,0.545,VC 2021,0,0
+D0769,23-06-2021,2021,Series_B,Flagship Pioneering,Vecjas BIO,1.021,Series_B 2021,0,0
+D0841,24-06-2021,2021,VC,Polaris Partners,Quobio GX,0.089,VC 2021,0,0
+D0751,24-06-2021,2021,Series_C,F-Prime Capital,Episyn ON,0.702,Series_C 2021,0,0
+D0840,26-06-2021,2021,VC,OrbiMed,Tavmod AB,0.065,VC 2021,0,0
+D0809,27-06-2021,2021,VC,Versant Ventures,Dencel Tx,0.075,VC 2021,0,0
+D0772,01-07-2021,2021,VC,a16z Bio,Lumbio ON,0.121,VC 2021,0,0
+D0797,03-07-2021,2021,Series_C,GV (Google Ventures),Uniimm RX,0.186,Series_C 2021,0,0
+D0799,04-07-2021,2021,VC,Flagship Pioneering,Xenjas Tx,0.142,VC 2021,0,0
+D0845,06-07-2021,2021,VC,Atlas Venture,Neugen OS,0.074,VC 2021,0,0
+D0019,15-07-2021,2021,IPO,Public markets,Verve Therapeutics,0.27,CRISPR cardio IPO,0,1
+D0781,16-07-2021,2021,Series_B,Bain Capital Life Sciences,Unijas OS,0.02,Series_B 2021,0,0
+D0790,17-07-2021,2021,M&A,AstraZeneca,Aergen OS,0.846,M&A 2021,0,0
+D0807,20-07-2021,2021,IPO,Public markets,Onconc BIO,0.051,IPO 2021,0,0
+D0839,20-07-2021,2021,M&A,Novartis,Modyot AB,2.783,M&A 2021,0,0
+D0828,21-07-2021,2021,Series_C,RA Capital,Celuni Tx,0.557,Series_C 2021,0,0
+D0804,23-07-2021,2021,VC,Sofinnova Investments,Genkym X,1.217,VC 2021,0,0
+D0802,02-08-2021,2021,VC,Versant Ventures,Zeorep Therapeutics,0.16,VC 2021,0,0
+D0834,09-08-2021,2021,VC,OrbiMed,Gengen Therapeutics,0.037,VC 2021,0,0
+D0771,09-08-2021,2021,Series_C,Bain Capital Life Sciences,Synbio Therapeutics,0.072,Series_C 2021,0,0
+D0783,10-08-2021,2021,Series_B,Bain Capital Life Sciences,Zeomod OS,0.231,Series_B 2021,0,0
+D0750,13-08-2021,2021,Series_C,Bain Capital Life Sciences,Immlum Therapeutics,0.197,Series_C 2021,0,0
+D0768,16-08-2021,2021,VC,Versant Ventures,Xenrep X,0.061,VC 2021,0,0
+D0778,17-08-2021,2021,Series_B,Third Rock Ventures,Kymjas AB,0.056,Series_B 2021,0,0
+D0826,17-08-2021,2021,IPO,Public markets,Oncgen IO,0.461,IPO 2021,0,0
+D0856,19-08-2021,2021,VC,Sofinnova Investments,Denbio RX,0.188,VC 2021,0,0
+D0738,26-08-2021,2021,VC,F-Prime Capital,Epiden ON,0.246,VC 2021,0,0
+D0835,27-08-2021,2021,IPO,Public markets,Kymbio X,0.298,IPO 2021,0,0
+D0806,27-08-2021,2021,Series_C,Versant Ventures,Onccel ON,0.083,Series_C 2021,0,0
+D0754,03-09-2021,2021,VC,Flagship Pioneering,Veczeo GX,0.107,VC 2021,0,0
+D0818,05-09-2021,2021,VC,Bain Capital Life Sciences,Immaer IO,0.156,VC 2021,0,0
+D0829,17-09-2021,2021,Series_B,RA Capital,Jasepi RX,0.447,Series_B 2021,0,0
+D0736,21-09-2021,2021,VC,RA Capital,Celneu GX,0.034,VC 2021,0,0
+D0794,24-09-2021,2021,IPO,Public markets,Unixen OS,0.255,IPO 2021,0,0
+D0837,27-09-2021,2021,M&A,Sanofi,Celsyn RX,0.452,M&A 2021,0,0
+D0755,02-10-2021,2021,VC,Polaris Partners,Immonc OS,0.137,VC 2021,0,0
+D0786,05-10-2021,2021,M&A,Novartis,Aerhap GX,0.224,M&A 2021,0,0
+D0836,12-10-2021,2021,Series_C,Flagship Pioneering,Dencel GX,0.011,Series_C 2021,0,0
+D0832,14-10-2021,2021,M&A,Eli Lilly,Modbio GX,0.289,M&A 2021,0,0
+D0850,17-10-2021,2021,Series_B,Polaris Partners,Modzeo ON,0.057,Series_B 2021,0,0
+D0765,20-10-2021,2021,IPO,Public markets,Syngen IO,0.6,IPO 2021,0,0
+D0791,20-10-2021,2021,Series_B,ARCH Venture Partners,Lumpro RX,0.063,Series_B 2021,0,0
+D0824,20-10-2021,2021,VC,Flagship Pioneering,Protav RX,0.234,VC 2021,0,0
+D0827,20-10-2021,2021,VC,Atlas Venture,Denzeo Tx,0.112,VC 2021,0,0
+D0780,26-10-2021,2021,VC,OrbiMed,Yotuni BIO,0.115,VC 2021,0,0
+D0746,01-11-2021,2021,Series_C,Bain Capital Life Sciences,Oncquo RX,0.355,Series_C 2021,0,0
+D0022,04-11-2021,2021,VC,VC syndicate,Generate Biomedicines,0.37,Generative AI drug design,0,1
+D0776,05-11-2021,2021,VC,Bain Capital Life Sciences,Vecmod IO,0.278,VC 2021,0,0
+D0855,06-11-2021,2021,IPO,Public markets,Gengen IO,0.366,IPO 2021,0,0
+D0808,06-11-2021,2021,VC,OrbiMed,Celden RX,0.247,VC 2021,0,0
+D0854,06-11-2021,2021,IPO,Public markets,Denonc AB,0.847,IPO 2021,0,0
+D0833,07-11-2021,2021,VC,Flagship Pioneering,Aeryot BIO,0.507,VC 2021,0,0
+D0741,10-11-2021,2021,Series_B,RA Capital,Immhap ON,0.054,Series_B 2021,0,0
+D0764,14-11-2021,2021,IPO,Public markets,Uniyot ON,0.667,IPO 2021,0,0
+D0852,17-11-2021,2021,IPO,Public markets,Modyot GX,0.084,IPO 2021,0,0
+D0731,22-11-2021,2021,Series_B,GV (Google Ventures),Oncneu Therapeutics,0.056,Series_B 2021,0,0
+D0846,22-11-2021,2021,Crossover,Atlas Venture,Repgen IO,0.019,Crossover 2021,0,0
+D0752,25-11-2021,2021,M&A,AstraZeneca,Syncel OS,0.997,M&A 2021,0,0
+D0766,26-11-2021,2021,Series_B,a16z Bio,Bioden BIO,0.102,Series_B 2021,0,0
+D0814,03-12-2021,2021,IPO,Public markets,Synbio Therapeutics,0.301,IPO 2021,0,0
+D0762,04-12-2021,2021,Series_B,Versant Ventures,Xenaer X,0.104,Series_B 2021,0,0
+D0849,08-12-2021,2021,VC,OrbiMed,Jasonc GX,0.109,VC 2021,0,0
+D0774,09-12-2021,2021,VC,a16z Bio,Yotcel IO,0.154,VC 2021,0,0
+D0745,10-12-2021,2021,VC,Polaris Partners,Yotbio Therapeutics,0.284,VC 2021,0,0
+D0753,11-12-2021,2021,Crossover,Atlas Venture,Synyot Therapeutics,0.111,Crossover 2021,0,0
+D0735,11-12-2021,2021,VC,F-Prime Capital,Hapvec RX,0.127,VC 2021,0,0
+D0732,15-12-2021,2021,M&A,Roche,Biouni Therapeutics,18.382,M&A 2021,1,0
+D0763,17-12-2021,2021,VC,Flagship Pioneering,Lumyot BIO,0.632,VC 2021,0,0
+D0744,18-12-2021,2021,VC,Versant Ventures,Yotmod AB,0.065,VC 2021,0,0
+D0819,22-12-2021,2021,VC,Versant Ventures,Celhap Tx,0.099,VC 2021,0,0
+D0857,23-12-2021,2021,VC,Polaris Partners,Modonc BIO,0.527,VC 2021,0,0
+D0782,26-12-2021,2021,VC,Sofinnova Investments,Onconc ON,0.136,VC 2021,0,0
+D0925,02-01-2022,2022,IPO,Public markets,Aervec OS,0.867,IPO 2022,0,0
+D0871,03-01-2022,2022,Series_B,Third Rock Ventures,Oncyot AB,0.143,Series_B 2022,0,0
+D0936,05-01-2022,2022,Series_B,OrbiMed,Modquo GX,0.788,Series_B 2022,0,0
+D0895,05-01-2022,2022,M&A,J&J,Haprep Therapeutics,4.603,M&A 2022,0,0
+D0916,06-01-2022,2022,VC,Flagship Pioneering,Quoepi AB,0.496,VC 2022,0,0
+D0941,09-01-2022,2022,IPO,Public markets,Zeoimm OS,0.238,IPO 2022,0,0
+D0892,13-01-2022,2022,VC,Sofinnova Investments,Promod Therapeutics,0.078,VC 2022,0,0
+D0921,21-01-2022,2022,Series_B,OrbiMed,Kymsyn BIO,0.346,Series_B 2022,0,0
+D0878,05-02-2022,2022,VC,a16z Bio,Immuni ON,0.08,VC 2022,0,0
+D0877,11-02-2022,2022,VC,Third Rock Ventures,Yotneu OS,0.113,VC 2022,0,0
+D0927,14-02-2022,2022,M&A,AstraZeneca,Genuni Therapeutics,2.84,M&A 2022,0,0
+D0932,16-02-2022,2022,VC,GV (Google Ventures),Modxen ON,0.024,VC 2022,0,0
+D0884,17-02-2022,2022,VC,F-Prime Capital,Yotquo Tx,0.133,VC 2022,0,0
+D0911,17-02-2022,2022,M&A,GSK,Neusyn AB,19.366,M&A 2022,1,0
+D0865,18-02-2022,2022,VC,ARCH Venture Partners,Modden GX,0.108,VC 2022,0,0
+D0922,21-02-2022,2022,Crossover,OrbiMed,Haptav X,0.164,Crossover 2022,0,0
+D0874,02-03-2022,2022,Series_C,Bain Capital Life Sciences,Epizeo Therapeutics,0.027,Series_C 2022,0,0
+D0858,03-03-2022,2022,IPO,Public markets,Lumneu Therapeutics,0.292,IPO 2022,0,0
+D0909,03-03-2022,2022,Series_B,RA Capital,Biokym Therapeutics,0.164,Series_B 2022,0,0
+D0904,10-03-2022,2022,VC,ARCH Venture Partners,Unimod IO,0.02,VC 2022,0,0
+D0870,12-03-2022,2022,IPO,Public markets,Quotav Tx,0.175,IPO 2022,0,0
+D0891,12-03-2022,2022,VC,Flagship Pioneering,Tavgen Tx,0.5,VC 2022,0,0
+D0945,12-03-2022,2022,VC,Atlas Venture,Tavepi IO,0.571,VC 2022,0,0
+D0953,19-03-2022,2022,Series_B,a16z Bio,Denzeo BIO,0.228,Series_B 2022,0,0
+D0900,27-03-2022,2022,VC,a16z Bio,Epihap X,0.022,VC 2022,0,0
+D0956,02-04-2022,2022,VC,OrbiMed,Aerjas OS,0.089,VC 2022,0,0
+D0914,03-04-2022,2022,VC,RA Capital,Repneu GX,0.129,VC 2022,0,0
+D0913,03-04-2022,2022,VC,ARCH Venture Partners,Synrep Tx,0.034,VC 2022,0,0
+D0915,06-04-2022,2022,Crossover,Atlas Venture,Modonc OS,0.2,Crossover 2022,0,0
+D0917,06-04-2022,2022,IPO,Public markets,Zeolum RX,0.221,IPO 2022,0,0
+D0881,19-04-2022,2022,Series_C,Polaris Partners,Proepi GX,0.192,Series_C 2022,0,0
+D0919,22-04-2022,2022,Series_B,OrbiMed,Veczeo BIO,1.057,Series_B 2022,0,0
+D0946,24-04-2022,2022,VC,ARCH Venture Partners,Neukym Tx,0.047,VC 2022,0,0
+D0907,24-04-2022,2022,IPO,Public markets,Xentav OS,0.116,IPO 2022,0,0
+D0882,26-04-2022,2022,VC,Bain Capital Life Sciences,Lumzeo BIO,0.082,VC 2022,0,0
+D0931,01-05-2022,2022,Series_C,F-Prime Capital,Genaer X,0.247,Series_C 2022,0,0
+D0879,02-05-2022,2022,VC,RA Capital,Onczeo BIO,0.14,VC 2022,0,0
+D0876,03-05-2022,2022,Crossover,ARCH Venture Partners,Unimod AB,0.649,Crossover 2022,0,0
+D0929,05-05-2022,2022,VC,a16z Bio,Yotcel IO,0.444,VC 2022,0,0
+D0867,07-05-2022,2022,Series_B,RA Capital,Quovec X,0.249,Series_B 2022,0,0
+D0875,07-05-2022,2022,Series_C,Polaris Partners,Epikym AB,0.134,Series_C 2022,0,0
+D0893,11-05-2022,2022,Series_B,Atlas Venture,Xenpro Tx,0.193,Series_B 2022,0,0
+D0949,13-05-2022,2022,Series_C,Bain Capital Life Sciences,Oncjas X,0.114,Series_C 2022,0,0
+D0885,17-05-2022,2022,Crossover,Third Rock Ventures,Zeolum GX,0.556,Crossover 2022,0,0
+D0868,20-05-2022,2022,IPO,Public markets,Dencel OS,0.246,IPO 2022,0,0
+D0924,21-05-2022,2022,Series_C,ARCH Venture Partners,Kymlum X,0.215,Series_C 2022,0,0
+D0952,22-05-2022,2022,VC,Atlas Venture,Epipro ON,0.224,VC 2022,0,0
+D0954,24-05-2022,2022,Series_C,a16z Bio,Jasuni RX,0.077,Series_C 2022,0,0
+D0926,26-05-2022,2022,M&A,Novartis,Bioquo IO,3.961,M&A 2022,0,0
+D0894,06-06-2022,2022,Series_B,a16z Bio,Yotonc GX,1.02,Series_B 2022,0,0
+D0896,07-06-2022,2022,Series_C,F-Prime Capital,Aerimm GX,0.3,Series_C 2022,0,0
+D0955,11-06-2022,2022,Series_B,OrbiMed,Haponc GX,0.219,Series_B 2022,0,0
+D0943,17-06-2022,2022,VC,GV (Google Ventures),Jasden OS,0.069,VC 2022,0,0
+D0866,17-06-2022,2022,VC,Polaris Partners,Immaer RX,0.07,VC 2022,0,0
+D0873,23-06-2022,2022,VC,RA Capital,Aerjas X,0.016,VC 2022,0,0
+D0938,24-06-2022,2022,IPO,Public markets,Bioquo ON,0.074,IPO 2022,0,0
+D0951,10-07-2022,2022,Series_B,GV (Google Ventures),Genhap Therapeutics,0.022,Series_B 2022,0,0
+D0860,22-07-2022,2022,M&A,Sanofi,Syngen RX,22.58,M&A 2022,1,0
+D0923,27-07-2022,2022,Series_B,a16z Bio,Uniepi BIO,0.061,Series_B 2022,0,0
+D0908,14-08-2022,2022,VC,OrbiMed,Neuden BIO,0.209,VC 2022,0,0
+D0910,15-08-2022,2022,VC,Flagship Pioneering,Zeoquo AB,0.355,VC 2022,0,0
+D0898,16-08-2022,2022,VC,RA Capital,Celmod X,0.112,VC 2022,0,0
+D0897,17-08-2022,2022,Series_C,Bain Capital Life Sciences,Celsyn Therapeutics,0.111,Series_C 2022,0,0
+D0888,19-08-2022,2022,VC,Atlas Venture,Bioepi RX,0.15,VC 2022,0,0
+D0890,27-08-2022,2022,VC,Third Rock Ventures,Tavneu Therapeutics,0.017,VC 2022,0,0
+D0861,04-09-2022,2022,Series_B,Atlas Venture,Lumbio Tx,0.187,Series_B 2022,0,0
+D0944,06-09-2022,2022,Crossover,ARCH Venture Partners,Kymkym Therapeutics,0.187,Crossover 2022,0,0
+D0940,08-09-2022,2022,VC,Third Rock Ventures,Epivec Tx,0.07,VC 2022,0,0
+D0862,08-09-2022,2022,Series_B,Sofinnova Investments,Bioneu BIO,0.155,Series_B 2022,0,0
+D0023,13-09-2022,2022,VC,VC syndicate,Altos Labs,3,Anti-aging mega-round,0,1
+D0937,13-09-2022,2022,M&A,BMS,Xenaer IO,0.227,M&A 2022,0,0
+D0942,16-09-2022,2022,Series_B,Third Rock Ventures,Lummod OS,0.576,Series_B 2022,0,0
+D0859,19-09-2022,2022,Series_C,OrbiMed,Modcel Therapeutics,0.404,Series_C 2022,0,0
+D0934,23-09-2022,2022,VC,F-Prime Capital,Celmod ON,0.173,VC 2022,0,0
+D0950,03-10-2022,2022,Series_B,Flagship Pioneering,Hapepi RX,0.131,Series_B 2022,0,0
+D0872,04-10-2022,2022,VC,GV (Google Ventures),Biomod X,0.025,VC 2022,0,0
+D0864,04-10-2022,2022,Series_C,Sofinnova Investments,Quopro ON,0.267,Series_C 2022,0,0
+D0947,04-10-2022,2022,IPO,Public markets,Modzeo X,0.145,IPO 2022,0,0
+D0869,05-10-2022,2022,Series_C,ARCH Venture Partners,Denepi BIO,0.334,Series_C 2022,0,0
+D0930,16-10-2022,2022,VC,Atlas Venture,Repaer Therapeutics,0.231,VC 2022,0,0
+D0935,26-10-2022,2022,VC,a16z Bio,Episyn BIO,0.12,VC 2022,0,0
+D0906,26-10-2022,2022,Series_B,F-Prime Capital,Denhap OS,0.227,Series_B 2022,0,0
+D0880,27-10-2022,2022,IPO,Public markets,Celcel OS,0.809,IPO 2022,0,0
+D0887,08-11-2022,2022,Series_B,Sofinnova Investments,Aervec OS,1.41,Series_B 2022,0,0
+D0933,08-11-2022,2022,VC,Third Rock Ventures,Neugen Therapeutics,0.145,VC 2022,0,0
+D0901,12-11-2022,2022,Series_C,Flagship Pioneering,Synzeo X,0.356,Series_C 2022,0,0
+D0905,14-11-2022,2022,VC,GV (Google Ventures),Xensyn RX,0.237,VC 2022,0,0
+D0903,14-11-2022,2022,Series_C,Sofinnova Investments,Synquo Therapeutics,0.163,Series_C 2022,0,0
+D0889,17-11-2022,2022,Series_C,RA Capital,Denjas BIO,0.35,Series_C 2022,0,0
+D0902,24-11-2022,2022,VC,Third Rock Ventures,Synhap ON,0.681,VC 2022,0,0
+D0948,24-11-2022,2022,IPO,Public markets,Genxen ON,0.092,IPO 2022,0,0
+D0883,25-11-2022,2022,M&A,Sanofi,Biogen Tx,3.082,M&A 2022,0,0
+D0863,26-11-2022,2022,VC,Versant Ventures,Biorep GX,0.455,VC 2022,0,0
+D0920,04-12-2022,2022,VC,Bain Capital Life Sciences,Modtav AB,0.264,VC 2022,0,0
+D0912,12-12-2022,2022,VC,Third Rock Ventures,Genbio GX,0.548,VC 2022,0,0
+D0957,12-12-2022,2022,IPO,Public markets,Hapden RX,0.972,IPO 2022,0,0
+D0011,13-12-2022,2022,M&A,Amgen,Horizon Therapeutics,27.8,Tepezza addition,1,1
+D0918,14-12-2022,2022,Crossover,Versant Ventures,Tavhap OS,0.386,Crossover 2022,0,0
+D0899,15-12-2022,2022,M&A,AbbVie,Yotvec OS,0.926,M&A 2022,0,0
+D0939,22-12-2022,2022,Series_B,GV (Google Ventures),Yotbio OS,0.068,Series_B 2022,0,0
+D0886,25-12-2022,2022,Series_B,GV (Google Ventures),Immimm X,0.107,Series_B 2022,0,0
+D0928,26-12-2022,2022,VC,ARCH Venture Partners,Lumimm ON,0.152,VC 2022,0,0
+D0971,03-01-2023,2023,VC,Versant Ventures,Synzeo AB,0.984,VC 2023,0,0
+D0998,05-01-2023,2023,Series_B,Atlas Venture,Aergen Therapeutics,0.25,Series_B 2023,0,0
+D0963,12-01-2023,2023,VC,Versant Ventures,Quozeo AB,0.129,VC 2023,0,0
+D1029,27-01-2023,2023,VC,Atlas Venture,Synmod GX,0.09,VC 2023,0,0
+D1016,09-02-2023,2023,IPO,Public markets,Immepi GX,0.123,IPO 2023,0,0
+D1032,19-02-2023,2023,M&A,GSK,Kymxen BIO,10.678,M&A 2023,1,0
+D1021,01-03-2023,2023,Series_B,Third Rock Ventures,Epigen Therapeutics,0.062,Series_B 2023,0,0
+D1015,06-03-2023,2023,Series_B,GV (Google Ventures),Prorep AB,0.112,Series_B 2023,0,0
+D1007,07-03-2023,2023,Series_B,Bain Capital Life Sciences,Zeogen IO,0.048,Series_B 2023,0,0
+D0969,08-03-2023,2023,VC,Sofinnova Investments,Hapmod Therapeutics,0.251,VC 2023,0,0
+D0959,19-03-2023,2023,Series_B,Versant Ventures,Uniquo AB,0.166,Series_B 2023,0,0
+D0962,22-03-2023,2023,VC,ARCH Venture Partners,Lumpro Tx,0.776,VC 2023,0,0
+D0967,02-04-2023,2023,M&A,AbbVie,Proyot AB,1.092,M&A 2023,0,0
+D1010,02-04-2023,2023,VC,GV (Google Ventures),Denpro AB,0.046,VC 2023,0,0
+D0987,10-04-2023,2023,IPO,Public markets,Zeouni X,1.197,IPO 2023,0,0
+D0968,14-04-2023,2023,Series_B,F-Prime Capital,Kymgen X,1.023,Series_B 2023,0,0
+D0989,15-04-2023,2023,VC,Sofinnova Investments,Proimm X,0.1,VC 2023,0,0
+D0012,16-04-2023,2023,M&A,Merck,Prometheus,10.8,Immunology pipeline,1,1
+D0975,19-04-2023,2023,VC,Flagship Pioneering,Celsyn Therapeutics,0.093,VC 2023,0,0
+D0988,01-05-2023,2023,VC,Sofinnova Investments,Bioden Tx,0.29,VC 2023,0,0
+D1024,01-05-2023,2023,VC,RA Capital,Happro X,0.056,VC 2023,0,0
+D0991,05-05-2023,2023,Series_B,F-Prime Capital,Tavquo X,0.019,Series_B 2023,0,0
+D0996,09-05-2023,2023,VC,ARCH Venture Partners,Hapaer X,0.129,VC 2023,0,0
+D1008,09-05-2023,2023,VC,Third Rock Ventures,Celden X,0.2,VC 2023,0,0
+D1009,09-05-2023,2023,VC,F-Prime Capital,Genmod X,0.1,VC 2023,0,0
+D0983,13-05-2023,2023,IPO,Public markets,Immcel IO,0.505,IPO 2023,0,0
+D0977,15-05-2023,2023,M&A,Gilead,Prohap ON,9.811,M&A 2023,0,0
+D0995,19-05-2023,2023,Series_C,ARCH Venture Partners,Genonc X,0.127,Series_C 2023,0,0
+D0974,19-05-2023,2023,Series_B,Flagship Pioneering,Yothap X,0.034,Series_B 2023,0,0
+D1003,20-05-2023,2023,VC,GV (Google Ventures),Denpro Tx,0.123,VC 2023,0,0
+D0985,21-05-2023,2023,Series_B,Atlas Venture,Quolum OS,0.16,Series_B 2023,0,0
+D1011,25-05-2023,2023,VC,F-Prime Capital,Quohap IO,0.098,VC 2023,0,0
+D1031,10-06-2023,2023,Series_B,Versant Ventures,Lumhap IO,0.252,Series_B 2023,0,0
+D0970,11-06-2023,2023,IPO,Public markets,Xenjas IO,0.095,IPO 2023,0,0
+D1030,16-06-2023,2023,VC,F-Prime Capital,Quojas Tx,0.1,VC 2023,0,0
+D0966,26-06-2023,2023,Series_C,Bain Capital Life Sciences,Celbio OS,0.108,Series_C 2023,0,0
+D1012,02-07-2023,2023,Series_B,ARCH Venture Partners,Zeoquo Therapeutics,0.296,Series_B 2023,0,0
+D1023,04-07-2023,2023,VC,Versant Ventures,Bioquo BIO,0.079,VC 2023,0,0
+D0964,09-07-2023,2023,VC,a16z Bio,Hapgen AB,0.072,VC 2023,0,0
+D0993,14-07-2023,2023,Crossover,RA Capital,Onckym Tx,0.026,Crossover 2023,0,0
+D0961,18-07-2023,2023,VC,Polaris Partners,Kymaer Therapeutics,0.144,VC 2023,0,0
+D1025,24-07-2023,2023,Series_B,Bain Capital Life Sciences,Vecquo AB,0.173,Series_B 2023,0,0
+D1020,10-08-2023,2023,VC,Polaris Partners,Jasden X,0.096,VC 2023,0,0
+D1006,14-08-2023,2023,M&A,AbbVie,Xenkym AB,38.657,M&A 2023,1,0
+D1000,22-08-2023,2023,Series_B,ARCH Venture Partners,Epirep ON,0.255,Series_B 2023,0,0
+D0976,26-08-2023,2023,M&A,Amgen,Quoaer GX,1.406,M&A 2023,0,0
+D0992,27-08-2023,2023,VC,GV (Google Ventures),Synzeo IO,0.114,VC 2023,0,0
+D0973,27-08-2023,2023,VC,Flagship Pioneering,Neuhap OS,0.182,VC 2023,0,0
+D1027,27-08-2023,2023,Series_B,Bain Capital Life Sciences,Celneu RX,0.154,Series_B 2023,0,0
+D1004,27-08-2023,2023,VC,Third Rock Ventures,Quomod Therapeutics,0.282,VC 2023,0,0
+D0990,02-09-2023,2023,M&A,Merck,Haponc AB,0.812,M&A 2023,0,0
+D1001,05-09-2023,2023,VC,OrbiMed,Aervec BIO,0.049,VC 2023,0,0
+D0999,07-09-2023,2023,Series_B,GV (Google Ventures),Biouni X,0.239,Series_B 2023,0,0
+D0982,14-09-2023,2023,Series_B,Atlas Venture,Biohap GX,0.11,Series_B 2023,0,0
+D0960,18-09-2023,2023,VC,ARCH Venture Partners,Modtav ON,0.209,VC 2023,0,0
+D0986,26-09-2023,2023,M&A,Roche,Celneu RX,5.974,M&A 2023,0,0
+D1005,08-10-2023,2023,IPO,Public markets,Proaer GX,0.728,IPO 2023,0,0
+D1014,09-10-2023,2023,VC,Bain Capital Life Sciences,Neuhap Tx,0.03,VC 2023,0,0
+D0994,11-10-2023,2023,Crossover,GV (Google Ventures),Quoimm RX,0.104,Crossover 2023,0,0
+D1017,24-10-2023,2023,Series_B,Flagship Pioneering,Denaer ON,0.032,Series_B 2023,0,0
+D0984,08-11-2023,2023,VC,RA Capital,Lumsyn IO,0.033,VC 2023,0,0
+D1013,16-11-2023,2023,Series_B,GV (Google Ventures),Xenepi GX,0.096,Series_B 2023,0,0
+D1002,17-11-2023,2023,VC,Third Rock Ventures,Haptav GX,0.054,VC 2023,0,0
+D1022,17-11-2023,2023,Series_B,Versant Ventures,Epijas OS,0.521,Series_B 2023,0,0
+D1028,19-11-2023,2023,VC,Atlas Venture,Zeoneu ON,0.035,VC 2023,0,0
+D1018,19-11-2023,2023,Series_B,F-Prime Capital,Bioonc BIO,0.053,Series_B 2023,0,0
+D0978,25-11-2023,2023,VC,a16z Bio,Zeocel OS,0.169,VC 2023,0,0
+D0980,02-12-2023,2023,IPO,Public markets,Epiden GX,0.143,IPO 2023,0,0
+D0979,03-12-2023,2023,M&A,Pfizer,Bioepi IO,8.883,M&A 2023,0,0
+D0997,04-12-2023,2023,VC,Sofinnova Investments,Bioimm BIO,1.389,VC 2023,0,0
+D1019,10-12-2023,2023,VC,Flagship Pioneering,Repimm ON,0.27,VC 2023,0,0
+D0981,11-12-2023,2023,Series_B,Third Rock Ventures,Uniyot Therapeutics,0.154,Series_B 2023,0,0
+D0972,13-12-2023,2023,VC,GV (Google Ventures),Unijas RX,1.431,VC 2023,0,0
+D0965,18-12-2023,2023,VC,Polaris Partners,Modrep BIO,0.087,VC 2023,0,0
+D1026,21-12-2023,2023,M&A,Pfizer,Neuuni Tx,0.723,M&A 2023,0,0
+D0958,22-12-2023,2023,IPO,Public markets,Aersyn Therapeutics,1.104,IPO 2023,0,0
+D0013,26-12-2023,2023,M&A,BMS,Karuna,14,Schizophrenia drug,1,1
+D1059,14-01-2024,2024,VC,a16z Bio,Repxen IO,0.108,VC 2024,0,0
+D1083,16-01-2024,2024,VC,Third Rock Ventures,Bioden X,0.245,VC 2024,0,0
+D1053,21-01-2024,2024,M&A,Eli Lilly,Reptav OS,1.365,M&A 2024,0,0
+D1074,22-01-2024,2024,Series_B,Flagship Pioneering,Jassyn RX,0.105,Series_B 2024,0,0
+D1045,24-01-2024,2024,IPO,Public markets,Gengen Therapeutics,0.681,IPO 2024,0,0
+D1061,25-01-2024,2024,Crossover,ARCH Venture Partners,Immyot IO,0.763,Crossover 2024,0,0
+D1049,27-01-2024,2024,Series_C,Versant Ventures,Yotsyn RX,0.758,Series_C 2024,0,0
+D0020,02-02-2024,2024,IPO,Public markets,CG Oncology,0.38,Bladder cancer IPO,0,1
+D1070,04-02-2024,2024,IPO,Public markets,Xenpro Tx,1.143,IPO 2024,0,0
+D1055,04-02-2024,2024,Series_B,Versant Ventures,Jasquo X,0.172,Series_B 2024,0,0
+D1037,18-02-2024,2024,Series_C,Flagship Pioneering,Xenvec Therapeutics,0.076,Series_C 2024,0,0
+D1062,18-02-2024,2024,Series_B,ARCH Venture Partners,Modquo GX,0.275,Series_B 2024,0,0
+D1122,23-02-2024,2024,VC,Bain Capital Life Sciences,Zeozeo Tx,0.115,VC 2024,0,0
+D1102,23-02-2024,2024,Series_B,Versant Ventures,Vecneu RX,0.135,Series_B 2024,0,0
+D1067,02-03-2024,2024,IPO,Public markets,Genkym Therapeutics,2.008,IPO 2024,0,0
+D1081,05-03-2024,2024,Series_B,Versant Ventures,Epikym AB,0.156,Series_B 2024,0,0
+D1108,06-03-2024,2024,VC,GV (Google Ventures),Kymjas AB,0.641,VC 2024,0,0
+D1043,07-03-2024,2024,M&A,GSK,Synaer AB,2.148,M&A 2024,0,0
+D0024,12-03-2024,2024,VC,VC syndicate,Xaira Therapeutics,1,AI drug discovery,0,1
+D1064,26-03-2024,2024,Series_C,Flagship Pioneering,Denhap ON,0.167,Series_C 2024,0,0
+D1051,26-03-2024,2024,VC,Versant Ventures,Biogen ON,0.445,VC 2024,0,0
+D1047,01-04-2024,2024,VC,Third Rock Ventures,Yotonc ON,0.02,VC 2024,0,0
+D1036,03-04-2024,2024,Series_B,Bain Capital Life Sciences,Genlum IO,0.184,Series_B 2024,0,0
+D1035,05-04-2024,2024,Series_C,Polaris Partners,Unitav Tx,0.213,Series_C 2024,0,0
+D1041,10-04-2024,2024,VC,OrbiMed,Yotcel X,0.55,VC 2024,0,0
+D1080,11-04-2024,2024,VC,Versant Ventures,Yotrep GX,0.26,VC 2024,0,0
+D1090,17-04-2024,2024,Series_B,GV (Google Ventures),Xenaer IO,0.084,Series_B 2024,0,0
+D1121,19-04-2024,2024,Series_C,ARCH Venture Partners,Densyn AB,0.368,Series_C 2024,0,0
+D1050,27-04-2024,2024,VC,Sofinnova Investments,Epiuni AB,0.024,VC 2024,0,0
+D0014,30-04-2024,2024,M&A,Vertex,Alpine Immune,4.9,Autoimmune entry,0,1
+D1039,02-05-2024,2024,Series_B,F-Prime Capital,Lumhap Therapeutics,0.157,Series_B 2024,0,0
+D1117,04-05-2024,2024,VC,Versant Ventures,Reptav IO,0.109,VC 2024,0,0
+D1114,05-05-2024,2024,IPO,Public markets,Quokym X,0.207,IPO 2024,0,0
+D1057,05-05-2024,2024,IPO,Public markets,Repquo BIO,0.364,IPO 2024,0,0
+D1073,05-05-2024,2024,M&A,Eli Lilly,Jasquo Therapeutics,11.115,M&A 2024,1,0
+D1112,14-05-2024,2024,Series_B,Third Rock Ventures,Repcel IO,0.081,Series_B 2024,0,0
+D1096,18-05-2024,2024,M&A,AbbVie,Neuxen X,0.24,M&A 2024,0,0
+D1115,19-05-2024,2024,VC,Sofinnova Investments,Immvec AB,0.07,VC 2024,0,0
+D1088,01-06-2024,2024,VC,Bain Capital Life Sciences,Modaer X,0.283,VC 2024,0,0
+D1111,02-06-2024,2024,VC,RA Capital,Biobio X,0.186,VC 2024,0,0
+D1099,03-06-2024,2024,M&A,Amgen,Oncjas AB,2.486,M&A 2024,0,0
+D1086,03-06-2024,2024,VC,a16z Bio,Epirep ON,0.086,VC 2024,0,0
+D1107,13-06-2024,2024,VC,GV (Google Ventures),Tavonc IO,0.559,VC 2024,0,0
+D1094,16-06-2024,2024,M&A,J&J,Modonc RX,0.388,M&A 2024,0,0
+D1119,24-06-2024,2024,Series_B,F-Prime Capital,Repgen BIO,0.17,Series_B 2024,0,0
+D1101,02-07-2024,2024,VC,Atlas Venture,Xenlum BIO,0.049,VC 2024,0,0
+D1103,03-07-2024,2024,VC,OrbiMed,Modlum X,0.072,VC 2024,0,0
+D0025,15-07-2024,2024,VC,VC syndicate,Formation Bio,0.37,AI clinical trials,0,1
+D1046,16-07-2024,2024,IPO,Public markets,Proyot OS,0.331,IPO 2024,0,0
+D1034,17-07-2024,2024,Series_C,RA Capital,Denepi ON,0.139,Series_C 2024,0,0
+D1100,20-07-2024,2024,IPO,Public markets,Genvec IO,0.262,IPO 2024,0,0
+D1058,22-07-2024,2024,M&A,AbbVie,Synaer X,0.27,M&A 2024,0,0
+D1110,23-07-2024,2024,Series_B,a16z Bio,Biomod GX,0.231,Series_B 2024,0,0
+D1105,23-07-2024,2024,Series_C,GV (Google Ventures),Zeomod BIO,0.149,Series_C 2024,0,0
+D1087,24-07-2024,2024,VC,OrbiMed,Lummod GX,0.056,VC 2024,0,0
+D1120,26-07-2024,2024,VC,Bain Capital Life Sciences,Repjas Tx,0.075,VC 2024,0,0
+D1116,06-08-2024,2024,Crossover,F-Prime Capital,Dencel Tx,0.105,Crossover 2024,0,0
+D1077,07-08-2024,2024,VC,GV (Google Ventures),Bioonc ON,0.488,VC 2024,0,0
+D1109,14-08-2024,2024,VC,Versant Ventures,Zeovec BIO,0.473,VC 2024,0,0
+D1065,19-08-2024,2024,VC,F-Prime Capital,Kymkym X,0.215,VC 2024,0,0
+D1068,21-08-2024,2024,Series_B,OrbiMed,Proden OS,0.02,Series_B 2024,0,0
+D1078,21-08-2024,2024,Series_B,GV (Google Ventures),Zeocel AB,0.333,Series_B 2024,0,0
+D1118,23-08-2024,2024,Series_B,Bain Capital Life Sciences,Genrep BIO,0.11,Series_B 2024,0,0
+D1113,24-08-2024,2024,Series_B,RA Capital,Modcel X,0.219,Series_B 2024,0,0
+D1092,26-08-2024,2024,VC,Third Rock Ventures,Tavneu Therapeutics,0.08,VC 2024,0,0
+D1075,01-09-2024,2024,IPO,Public markets,Unibio IO,0.515,IPO 2024,0,0
+D1048,02-09-2024,2024,VC,Polaris Partners,Reppro X,0.237,VC 2024,0,0
+D0026,08-09-2024,2024,VC,VC syndicate,Isomorphic Labs,0.4,DeepMind spinoff drug AI,0,1
+D1095,09-09-2024,2024,VC,Atlas Venture,Vecgen IO,0.736,VC 2024,0,0
+D1069,12-09-2024,2024,VC,F-Prime Capital,Jastav AB,0.275,VC 2024,0,0
+D1091,13-09-2024,2024,Series_B,a16z Bio,Aerpro Therapeutics,0.299,Series_B 2024,0,0
+D1066,20-09-2024,2024,M&A,AstraZeneca,Onccel X,0.163,M&A 2024,0,0
+D1104,04-10-2024,2024,Crossover,RA Capital,Oncrep OS,0.137,Crossover 2024,0,0
+D1089,10-10-2024,2024,M&A,Amgen,Onclum GX,2.284,M&A 2024,0,0
+D1033,13-10-2024,2024,IPO,Public markets,Moduni GX,0.316,IPO 2024,0,0
+D1085,15-10-2024,2024,M&A,Amgen,Lumsyn ON,8.447,M&A 2024,0,0
+D1084,17-10-2024,2024,IPO,Public markets,Epiyot BIO,0.228,IPO 2024,0,0
+D1038,25-10-2024,2024,VC,Atlas Venture,Repepi AB,0.545,VC 2024,0,0
+D1054,02-11-2024,2024,M&A,Merck,Vecsyn ON,0.383,M&A 2024,0,0
+D1056,03-11-2024,2024,VC,RA Capital,Unipro Tx,0.277,VC 2024,0,0
+D1079,04-11-2024,2024,Crossover,Atlas Venture,Unicel AB,0.159,Crossover 2024,0,0
+D1097,06-11-2024,2024,VC,OrbiMed,Quokym BIO,0.435,VC 2024,0,0
+D1040,12-11-2024,2024,Series_C,Versant Ventures,Jasimm ON,0.096,Series_C 2024,0,0
+D1093,16-11-2024,2024,VC,Sofinnova Investments,Celden RX,0.074,VC 2024,0,0
+D1076,19-11-2024,2024,VC,Flagship Pioneering,Repyot X,0.278,VC 2024,0,0
+D1071,27-11-2024,2024,M&A,J&J,Hapvec OS,0.398,M&A 2024,0,0
+D1106,02-12-2024,2024,Crossover,Bain Capital Life Sciences,Immaer RX,0.156,Crossover 2024,0,0
+D1042,03-12-2024,2024,M&A,GSK,Immmod OS,7.844,M&A 2024,0,0
+D1052,10-12-2024,2024,IPO,Public markets,Xenuni OS,0.466,IPO 2024,0,0
+D1044,12-12-2024,2024,M&A,Pfizer,Xenuni RX,6.089,M&A 2024,0,0
+D1060,12-12-2024,2024,VC,Polaris Partners,Lummod Tx,0.076,VC 2024,0,0
+D1098,20-12-2024,2024,Series_B,F-Prime Capital,Quopro OS,0.042,Series_B 2024,0,0
+D1082,20-12-2024,2024,Series_B,a16z Bio,Aerlum ON,0.073,Series_B 2024,0,0
+D1072,23-12-2024,2024,VC,GV (Google Ventures),Biovec OS,0.04,VC 2024,0,0
+D1063,26-12-2024,2024,VC,Atlas Venture,Syngen ON,0.326,VC 2024,0,0
+D1191,02-01-2025,2025,VC,F-Prime Capital,Quoxen ON,0.143,VC 2025,0,0
+D1157,06-01-2025,2025,Crossover,Flagship Pioneering,Vecquo ON,0.535,Crossover 2025,0,0
+D1148,08-01-2025,2025,VC,Polaris Partners,Repjas IO,0.874,VC 2025,0,0
+D1168,12-01-2025,2025,Series_B,Bain Capital Life Sciences,Xensyn RX,0.122,Series_B 2025,0,0
+D1161,14-01-2025,2025,Series_B,F-Prime Capital,Quoaer Tx,0.822,Series_B 2025,0,0
+D1188,16-01-2025,2025,Series_C,Bain Capital Life Sciences,Tavvec ON,0.053,Series_C 2025,0,0
+D1182,17-01-2025,2025,VC,GV (Google Ventures),Lumxen IO,0.075,VC 2025,0,0
+D1136,17-01-2025,2025,VC,ARCH Venture Partners,Biomod AB,0.343,VC 2025,0,0
+D1192,18-01-2025,2025,Crossover,Versant Ventures,Bioneu Tx,0.038,Crossover 2025,0,0
+D1195,18-01-2025,2025,Crossover,Flagship Pioneering,Uniepi GX,0.34,Crossover 2025,0,0
+D1163,22-01-2025,2025,M&A,Eli Lilly,Synzeo ON,9.639,M&A 2025,0,0
+D1174,02-02-2025,2025,M&A,GSK,Prorep X,1.839,M&A 2025,0,0
+D1197,06-02-2025,2025,Series_B,ARCH Venture Partners,Replum OS,0.018,Series_B 2025,0,0
+D0027,15-02-2025,2025,VC,VC syndicate,Eikon Therapeutics,0.35,Single-molecule platform,0,1
+D1155,20-02-2025,2025,VC,Versant Ventures,Tavlum IO,0.053,VC 2025,0,0
+D1130,23-02-2025,2025,Series_C,Third Rock Ventures,Denzeo RX,0.397,Series_C 2025,0,0
+D1180,24-02-2025,2025,M&A,AstraZeneca,Lumonc Therapeutics,1.522,M&A 2025,0,0
+D1202,02-03-2025,2025,M&A,Roche,Epilum OS,11.004,M&A 2025,1,0
+D1150,02-03-2025,2025,VC,GV (Google Ventures),Hapden GX,0.109,VC 2025,0,0
+D1151,11-03-2025,2025,Series_C,Versant Ventures,Xenlum Tx,0.036,Series_C 2025,0,0
+D1185,14-03-2025,2025,Series_B,Bain Capital Life Sciences,Lumkym ON,0.657,Series_B 2025,0,0
+D1147,15-03-2025,2025,M&A,AstraZeneca,Modyot BIO,0.588,M&A 2025,0,0
+D1153,17-03-2025,2025,Series_B,Third Rock Ventures,Uniden BIO,0.651,Series_B 2025,0,0
+D1131,21-03-2025,2025,VC,ARCH Venture Partners,Neuonc AB,1.164,VC 2025,0,0
+D1125,23-03-2025,2025,M&A,Roche,Synzeo OS,0.585,M&A 2025,0,0
+D1181,03-04-2025,2025,Series_C,Atlas Venture,Celuni IO,0.035,Series_C 2025,0,0
+D1145,16-04-2025,2025,VC,Third Rock Ventures,Bioimm BIO,0.474,VC 2025,0,0
+D1132,17-04-2025,2025,VC,Flagship Pioneering,Aerimm Tx,0.073,VC 2025,0,0
+D1124,22-04-2025,2025,VC,ARCH Venture Partners,Veccel IO,0.426,VC 2025,0,0
+D1160,12-05-2025,2025,M&A,Amgen,Modtav ON,0.921,M&A 2025,0,0
+D1170,13-05-2025,2025,IPO,Public markets,Aerrep GX,0.544,IPO 2025,0,0
+D1128,14-05-2025,2025,Series_C,OrbiMed,Zeoxen BIO,0.119,Series_C 2025,0,0
+D1134,14-05-2025,2025,M&A,AstraZeneca,Yottav RX,0.602,M&A 2025,0,0
+D1183,15-05-2025,2025,Series_B,Bain Capital Life Sciences,Aercel Tx,0.293,Series_B 2025,0,0
+D1200,20-05-2025,2025,Series_B,ARCH Venture Partners,Epixen Tx,0.065,Series_B 2025,0,0
+D1199,22-05-2025,2025,VC,OrbiMed,Oncvec X,0.072,VC 2025,0,0
+D1198,22-05-2025,2025,M&A,Merck,Yotxen Tx,25.59,M&A 2025,1,0
+D1194,26-05-2025,2025,Series_C,Polaris Partners,Tavhap Tx,0.036,Series_C 2025,0,0
+D1171,01-06-2025,2025,Series_C,ARCH Venture Partners,Repquo X,0.225,Series_C 2025,0,0
+D1201,17-06-2025,2025,M&A,Merck,Biovec BIO,0.169,M&A 2025,0,0
+D1175,26-06-2025,2025,VC,Atlas Venture,Jasvec RX,0.069,VC 2025,0,0
+D1156,03-07-2025,2025,Crossover,OrbiMed,Aerxen ON,0.126,Crossover 2025,0,0
+D1144,09-07-2025,2025,VC,a16z Bio,Yotvec IO,0.069,VC 2025,0,0
+D1154,17-07-2025,2025,IPO,Public markets,Tavneu Tx,0.719,IPO 2025,0,0
+D1137,21-07-2025,2025,VC,a16z Bio,Tavxen GX,0.632,VC 2025,0,0
+D1179,05-08-2025,2025,VC,Versant Ventures,Xenaer Therapeutics,0.068,VC 2025,0,0
+D1142,11-08-2025,2025,VC,RA Capital,Immlum GX,0.139,VC 2025,0,0
+D1140,21-08-2025,2025,M&A,AbbVie,Aercel GX,0.034,M&A 2025,0,0
+D1164,21-08-2025,2025,VC,Atlas Venture,Celgen IO,2.529,VC 2025,0,0
+D1143,26-08-2025,2025,VC,Sofinnova Investments,Oncvec RX,0.117,VC 2025,0,0
+D1193,07-09-2025,2025,VC,Versant Ventures,Celimm Tx,0.179,VC 2025,0,0
+D1187,08-09-2025,2025,VC,RA Capital,Quotav Therapeutics,0.522,VC 2025,0,0
+D1158,09-09-2025,2025,Series_B,Polaris Partners,Kymuni Therapeutics,0.149,Series_B 2025,0,0
+D1126,09-09-2025,2025,Series_C,ARCH Venture Partners,Repyot ON,0.556,Series_C 2025,0,0
+D1169,13-09-2025,2025,VC,Atlas Venture,Immmod ON,0.227,VC 2025,0,0
+D1162,14-09-2025,2025,Crossover,Flagship Pioneering,Jasgen RX,0.116,Crossover 2025,0,0
+D1189,26-09-2025,2025,VC,Third Rock Ventures,Unilum AB,0.105,VC 2025,0,0
+D1135,27-09-2025,2025,VC,F-Prime Capital,Aerxen AB,0.031,VC 2025,0,0
+D1184,03-10-2025,2025,VC,Polaris Partners,Synzeo IO,0.65,VC 2025,0,0
+D1166,05-10-2025,2025,IPO,Public markets,Repbio AB,2.849,IPO 2025,0,0
+D1146,07-10-2025,2025,VC,F-Prime Capital,Aerpro IO,0.121,VC 2025,0,0
+D1149,08-10-2025,2025,VC,F-Prime Capital,Veclum GX,0.16,VC 2025,0,0
+D1133,09-10-2025,2025,Crossover,ARCH Venture Partners,Gencel Therapeutics,0.15,Crossover 2025,0,0
+D1129,18-10-2025,2025,M&A,Gilead,Neuvec IO,0.41,M&A 2025,0,0
+D1123,19-10-2025,2025,Series_B,ARCH Venture Partners,Modimm GX,0.021,Series_B 2025,0,0
+D1186,19-10-2025,2025,VC,Polaris Partners,Immvec RX,0.312,VC 2025,0,0
+D1127,21-10-2025,2025,VC,F-Prime Capital,Oncbio OS,0.755,VC 2025,0,0
+D1177,21-10-2025,2025,VC,Third Rock Ventures,Hapjas ON,0.5,VC 2025,0,0
+D1176,22-10-2025,2025,Crossover,Sofinnova Investments,Kymcel Tx,0.59,Crossover 2025,0,0
+D1173,23-10-2025,2025,M&A,Roche,Quouni AB,9.372,M&A 2025,0,0
+D1138,24-10-2025,2025,Crossover,Third Rock Ventures,Reponc OS,0.226,Crossover 2025,0,0
+D1190,27-10-2025,2025,VC,Atlas Venture,Quomod AB,0.058,VC 2025,0,0
+D1178,15-11-2025,2025,VC,Versant Ventures,Jastav GX,0.188,VC 2025,0,0
+D1141,20-11-2025,2025,VC,a16z Bio,Hapden GX,0.077,VC 2025,0,0
+D1165,23-11-2025,2025,M&A,Amgen,Modyot IO,0.051,M&A 2025,0,0
+D1152,25-11-2025,2025,Crossover,Flagship Pioneering,Genonc ON,0.515,Crossover 2025,0,0
+D1159,04-12-2025,2025,Series_B,Sofinnova Investments,Hapneu OS,0.172,Series_B 2025,0,0
+D1172,08-12-2025,2025,M&A,J&J,Genvec BIO,0.539,M&A 2025,0,0
+D1196,10-12-2025,2025,IPO,Public markets,Aerjas BIO,0.947,IPO 2025,0,0
+D1139,12-12-2025,2025,M&A,BMS,Vecbio BIO,50,M&A 2025,1,0
+D1167,26-12-2025,2025,M&A,AbbVie,Aeryot Tx,4.764,M&A 2025,0,0
+D1206,02-02-2026,2026,VC,OrbiMed,Kymxen ON,0.043,VC 2026,0,0
+D1207,07-02-2026,2026,VC,OrbiMed,Aerlum Therapeutics,0.065,VC 2026,0,0
+D1203,02-04-2026,2026,Series_B,Atlas Venture,Modden ON,0.122,Series_B 2026,0,0
+D1208,13-04-2026,2026,VC,Flagship Pioneering,Moduni IO,0.229,VC 2026,0,0
+D1204,16-04-2026,2026,Crossover,a16z Bio,Yotpro Tx,0.183,Crossover 2026,0,0
+D1205,17-04-2026,2026,Series_C,Flagship Pioneering,Synkym RX,0.01,Series_C 2026,0,0
