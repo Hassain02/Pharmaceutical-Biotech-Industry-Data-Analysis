@@ -24,7 +24,11 @@ tTable	Avg_pipeline, drug_revenue, Profit	Aggregated KPIs for summary visualizat
 # Dashboards
 1. Clinical Trials Dashboard
 
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Healthcare_project.pbix"alt="Clinical Trials Dashboard" width="100%">
+</p>
 
+<p align="center">
 
 
 Total Duration: 17K months
