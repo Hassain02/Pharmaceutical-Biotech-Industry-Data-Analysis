@@ -15,7 +15,7 @@ Diseases	disease, dalys_millions, global_dalys_millions, region	Represents globa
 Pharma_finance	Company_name, revenue_usd_bn, operating_income_usd_bn, pipeline_size_est	Summarizes company financials and R&D spending.
 Date_table / Year_table	year, month, quarter	Supports time-based analysis.
 tTable	Avg_pipeline, drug_revenue, Profit	Aggregated KPIs for summary visualization.
-
+[Data Model](https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/DataModelling.png)
 
 # Dashboards
 1. Clinical Trials Dashboard
