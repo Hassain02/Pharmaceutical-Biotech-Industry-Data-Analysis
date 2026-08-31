@@ -3,7 +3,11 @@
  # Overview
 This project presents a comprehensive Power BI dashboard analyzing the pharmaceutical and biotechnology industry across multiple dimensions — including biotech funding, clinical trials, disease burden, drug performance, and financial metrics.
 It integrates data from several sources and models to uncover insights into investment trends, therapy outcomes, global health impact, and company performance.
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/Overview_Analysis.png"alt="Overview" width="100%">
+</p>
 
+<p align="center">
  # Data Model
 The data model connects multiple datasets through relational links:
 
@@ -25,7 +29,7 @@ tTable	Avg_pipeline, drug_revenue, Profit	Aggregated KPIs for summary visualizat
 1. Clinical Trials Dashboard
 
 <p align="center">
-  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Healthcare_project.pbix"alt="Clinical Trials Dashboard" width="100%">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/clinical_Analsis.png"alt="Clinical Trials Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -43,7 +47,11 @@ Novartis shows the highest stock impact (27%), while Sanofi has the lowest (5%).
 
 2. Disease Burden Dashboard
 
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/Diseases_Analysis%20.png"alt="Disease Burden" width="100%">
+</p>
 
+<p align="center">
 
 
 Total Global DALYs: 360,545M
@@ -56,7 +64,11 @@ Lowest Disease Impact: Maternal disorders (1.22%)
 
 3. Biotech Funding Dashboard
 
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/Investor_details.png"alt=" Biotech Funding" width="100%">
+</p>
 
+<p align="center">
 
 
 Highest Investor: AbbVie
@@ -70,6 +82,11 @@ Most Mega Deals: Roche
 Least Mega Deals: Pfizer
 
 4. Pharma Financials Dashboard
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/Pharma_Funding.png"alt="Pharma Financials " width="100%">
+</p>
+
+<p align="center">
 
 
 
@@ -85,7 +102,11 @@ Lowest Profit Country: China (0.28%)
 Segment Insights: Big Pharma dominates with $2,373.73B operating income.
 
 5. Drug Performance Dashboard
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/Decomposition%20tree.png"alt="Decomposition tree " width="100%">
+</p>
 
+<p align="center">
 
 
 
@@ -104,7 +125,11 @@ Clinical	Oncology trials have longest durations; Infectious therapy shows high P
 Disease	Cardiovascular diseases cause highest DALYs globally.
 Drug	Pfizer leads in vaccine revenue; Small Molecule drugs dominate sales.
 Pharma	USA shows highest profitability; Big Pharma segment drives majority of income.
+<p align="center">
+  <img src="https://github.com/Hassain02/Pharmaceutical-Biotech-Industry-Data-Analysis/blob/main/Image/Insights%20.png"alt="Key insights " width="100%">
+</p>
 
+<p align="center">
 
 # Data Preparation
 Each dataset underwent cleaning and formatting:
